@@ -1,0 +1,29 @@
+! Title: Mobile Specific
+! Description: Specific cosmetic filters for uBlock Origin on mobile with "Ignore generic cosmetic filters" enabled
+! Expires: 1 days
+! Last modified: Fri, 25 Jan 2023 03:16 UTC
+! Homepage: https://github.com/stephenhawk8054/MobileSpecific
+! License: https://github.com/stephenhawk8054/MobileSpecific/blob/main/LICENSE
+!
+! GitHub issues: https://github.com/stephenhawk8054/MobileSpecific/issues
+! GitHub pull requests: https://github.com/stephenhawk8054/MobileSpecific/pulls
+
+! https://arstechnica.com
+arstechnica.com##.archive-list-insteam
+arstechnica.com###article_end_ad_footer
+
+! https://www.neowin.net
+neowin.net##.header-banner-ads
+
+! https://www.nytimes.com
+nytimes.com##[data-hierarchy="zone"] > div > div > div:not([class]) [data-testid="StandardAd"]:upward([data-hierarchy="zone"] > div > div)
+nytimes.com##[id^="story-ad-"][id$="-wrapper"]
+
+! https://www.thesun.co.uk
+thesun.co.uk##.advert-wrapper
+thesun.co.uk##.customiser-v2-layout-1-billboard-container
+thesun.co.uk##.customiser-v2-layout-three-native-ad-container
+thesun.co.uk##.widget_thesun_dfp_ad_widget
+
+! https://viralonce.xyz
+viralonce.xyz##.code-block
