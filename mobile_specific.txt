@@ -12,6 +12,9 @@
 arstechnica.com##.archive-list-insteam
 arstechnica.com###article_end_ad_footer
 
+! https://www.bbc.com
+bbc.co.uk,bbc.com##.dotcom-ad
+
 ! https://www.bleepingcomputer.com
 bleepingcomputer.com##.adsbygoogle
 
