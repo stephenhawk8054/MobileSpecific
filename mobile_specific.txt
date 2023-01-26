@@ -36,3 +36,7 @@ thesun.co.uk##.widget_thesun_dfp_ad_widget
 
 ! https://viralonce.xyz
 viralonce.xyz##.code-block
+
+! https://www.zdnet.com
+zdnet.com##.c-adDisplay_container
+zdnet.com##.c-adSkyBox
