@@ -19,6 +19,9 @@ neowin.net##.header-banner-ads
 nytimes.com##[data-hierarchy="zone"] > div > div > div:not([class]) [data-testid="StandardAd"]:upward([data-hierarchy="zone"] > div > div)
 nytimes.com##[id^="story-ad-"][id$="-wrapper"]
 
+! https://www.theregister.com
+theregister.com##.adun
+
 ! https://www.thesun.co.uk
 thesun.co.uk##.advert-wrapper
 thesun.co.uk##.customiser-v2-layout-1-billboard-container
