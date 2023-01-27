@@ -25,6 +25,10 @@ hollywoodreporter.com##[class^="u-padding"]
 ! https://lifehacker.com
 lifehacker.com###splashy-ad-container-top
 
+! https://www.mysmartprice.com
+mysmartprice.com##.td-a-rec
+mysmartprice.com##.td-header-sp-recs
+
 ! https://www.neowin.net
 neowin.net##.header-banner-ads
 
