@@ -31,6 +31,10 @@ engadget.com##[data-component="JacAd"]
 hollywoodreporter.com##.admz
 hollywoodreporter.com##[class^="u-padding"]
 
+! https://insideevs.com
+insideevs.com##.m1_MobileMPU
+insideevs.com##.small-info-box-ad
+
 ! https://lifehacker.com
 lifehacker.com###splashy-ad-container-top
 
