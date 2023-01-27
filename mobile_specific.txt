@@ -41,6 +41,9 @@ neowin.net##.header-banner-ads
 nytimes.com##[data-hierarchy="zone"] > div > div > div:not([class]) [data-testid="StandardAd"]:upward([data-hierarchy="zone"] > div > div)
 nytimes.com##[id^="story-ad-"][id$="-wrapper"]
 
+! https://www.popsci.com
+popsci.com##.empire-unit-prefill-container
+
 ! https://www.theregister.com
 theregister.com##.adun
 
