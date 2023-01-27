@@ -18,6 +18,11 @@ bbc.co.uk,bbc.com##.dotcom-ad
 ! https://www.bleepingcomputer.com
 bleepingcomputer.com##.adsbygoogle
 
+! https://www.engadget.com
+engadget.com###MOBILE-TOP_ATF
+engadget.com###related-data-content-wrapper > div > [id^="ATF-Center"]:upward(div)
+engadget.com##[data-component="JacAd"]
+
 ! https://www.hollywoodreporter.com
 hollywoodreporter.com##.admz
 hollywoodreporter.com##[class^="u-padding"]
