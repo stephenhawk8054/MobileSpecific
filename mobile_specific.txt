@@ -55,6 +55,9 @@ nytimes.com##[id^="story-ad-"][id$="-wrapper"]
 ! https://www.popsci.com
 popsci.com##.empire-unit-prefill-container
 
+! https://scitechdaily.com
+scitechdaily.com##.ezoic-ad
+
 ! https://www.theregister.com
 theregister.com##.adun
 
