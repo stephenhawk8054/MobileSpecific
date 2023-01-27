@@ -51,6 +51,9 @@ popsci.com##.empire-unit-prefill-container
 ! https://www.theregister.com
 theregister.com##.adun
 
+! https://www.thestar.com
+thestar.com##.leaderboard-ad-component
+
 ! https://www.thesun.co.uk
 thesun.co.uk##.advert-wrapper
 thesun.co.uk##.customiser-v2-layout-1-billboard-container
