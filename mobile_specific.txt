@@ -78,6 +78,9 @@ thesun.co.uk##.customiser-v2-layout-1-billboard-container
 thesun.co.uk##.customiser-v2-layout-three-native-ad-container
 thesun.co.uk##.widget_thesun_dfp_ad_widget
 
+! https://www.usatoday.com
+usatoday.com##.gnt_xmst
+
 ! https://viralonce.xyz
 viralonce.xyz##.code-block
 
