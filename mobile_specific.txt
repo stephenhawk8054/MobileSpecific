@@ -12,6 +12,9 @@
 androidheadlines.com##.ad-wrapper
 androidheadlines.com##.row > div > .ad-wrapper:upward(.row)
 
+! https://appleinsider.com
+appleinsider.com##.row > div > .primis-ad-wrap:upward(div)
+
 ! https://arstechnica.com
 arstechnica.com##.archive-list-insteam
 arstechnica.com###article_end_ad_footer
