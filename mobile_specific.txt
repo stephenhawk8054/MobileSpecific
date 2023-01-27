@@ -25,6 +25,9 @@ bbc.co.uk,bbc.com##.dotcom-ad
 ! https://www.bleepingcomputer.com
 bleepingcomputer.com##.adsbygoogle
 
+! https://defensescoop.com
+defensescoop.com##.ad
+
 ! https://www.engadget.com
 engadget.com###MOBILE-TOP_ATF
 engadget.com###related-data-content-wrapper > div > [id^="ATF-Center"]:upward(div)
