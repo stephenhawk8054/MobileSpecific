@@ -56,6 +56,9 @@ mysmartprice.com##.td-header-sp-recs
 ! https://www.neowin.net
 neowin.net##.header-banner-ads
 
+! https://www.notebookcheck.net
+notebookcheck.net###nbc_bb
+
 ! https://www.nytimes.com
 nytimes.com##[data-hierarchy="zone"] > div > div > div:not([class]) [data-testid="StandardAd"]:upward([data-hierarchy="zone"] > div > div)
 nytimes.com##[id^="story-ad-"][id$="-wrapper"]
