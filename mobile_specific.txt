@@ -15,6 +15,9 @@ androidheadlines.com##.row > div > .ad-wrapper:upward(.row)
 ! https://appleinsider.com
 appleinsider.com##.row > div > .primis-ad-wrap:upward(div)
 
+! https://www.arabnews.com
+arabnews.com##.block-wrapper .ad-holder:upward(.block-wrapper)
+
 ! https://arstechnica.com
 arstechnica.com##.archive-list-insteam
 arstechnica.com###article_end_ad_footer
