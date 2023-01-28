@@ -74,6 +74,10 @@ popsci.com##.empire-unit-prefill-container
 ! https://scitechdaily.com
 scitechdaily.com##.ezoic-ad
 
+! https://www.sdxcentral.com
+sdxcentral.com##.header-lemur
+sdxcentral.com##.sponsored
+
 ! https://www.theregister.com
 theregister.com##.adun
 
