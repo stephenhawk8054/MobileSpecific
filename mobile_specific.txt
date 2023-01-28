@@ -38,6 +38,11 @@ engadget.com###MOBILE-TOP_ATF
 engadget.com###related-data-content-wrapper > div > [id^="ATF-Center"]:upward(div)
 engadget.com##[data-component="JacAd"]
 
+! https://www.govtech.com
+govtech.com##.Enhancement
+govtech.com##.GoogleDfpMobileAd
+govtech.com##[id^="googleAd"]
+
 ! https://www.hollywoodreporter.com
 hollywoodreporter.com##.admz
 hollywoodreporter.com##[class^="u-padding"]
