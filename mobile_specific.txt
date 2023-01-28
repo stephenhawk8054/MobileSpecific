@@ -92,6 +92,9 @@ usatoday.com##.gnt_xmst
 ! https://viralonce.xyz
 viralonce.xyz##.code-block
 
+! https://www.wired.com
+wired.com##.ad-height-hold
+
 ! https://www.zdnet.com
 zdnet.com##.c-adDisplay_container
 zdnet.com##.c-adSkyBox
