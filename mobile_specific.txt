@@ -67,6 +67,11 @@ mysmartprice.com##.td-header-sp-recs
 ! https://www.neowin.net
 neowin.net##.header-banner-ads
 
+! https://www.newyorker.com
+newyorker.com##.ad
+newyorker.com##.ad-height-hold
+newyorker.com##.full-bleed-ad
+
 ! https://www.notebookcheck.net
 notebookcheck.net###nbc_bb
 
