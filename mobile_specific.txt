@@ -28,6 +28,10 @@ bbc.co.uk,bbc.com##.dotcom-ad
 ! https://www.bleepingcomputer.com
 bleepingcomputer.com##.adsbygoogle
 
+! https://markets.businessinsider.com
+businessinsider.com##.l-ad
+businessinsider.com##.taboola-container
+
 ! https://defensescoop.com
 defensescoop.com##.ad
 
