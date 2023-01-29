@@ -95,6 +95,9 @@ sdxcentral.com##.sponsored
 ! https://www.sfchronicle.com
 sfchronicle.com##.belowMastheadWrapper
 
+! https://thenextweb.com
+thenextweb.com##.tnw-ad
+
 ! https://www.theregister.com
 theregister.com##.adun
 
