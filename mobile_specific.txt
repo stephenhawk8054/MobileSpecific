@@ -78,6 +78,9 @@ mangaread.org##.ad
 mangaread.org##.c-sidebar
 mangaread.org##.widget_text
 
+! https://www.mmm-online.com
+mmm-online.com##[class*="ad-place"]
+
 ! https://www.mysmartprice.com
 mysmartprice.com##.td-a-rec
 mysmartprice.com##.td-header-sp-recs
