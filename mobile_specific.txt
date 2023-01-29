@@ -36,6 +36,9 @@ driving.ca,healthing.ca,nationalpost.com,thegrowthop.com##.ad__section-border
 driving.ca,healthing.ca,nationalpost.com,thegrowthop.com##.vf-ad-comments
 driving.ca,healthing.ca,nationalpost.com,thegrowthop.com##.vf-promo-wrapper
 
+! https://www.ehn.org
+ehn.org##.ad-tag
+
 ! https://www.engadget.com
 engadget.com###MOBILE-TOP_ATF
 engadget.com###related-data-content-wrapper > div > [id^="ATF-Center"]:upward(div)
