@@ -89,6 +89,9 @@ nytimes.com##[id^="story-ad-"][id$="-wrapper"]
 ! https://www.popsci.com
 popsci.com##.empire-unit-prefill-container
 
+! https://saytruyenvip.com
+saytruyenvip.com##.ad
+
 ! https://scitechdaily.com
 scitechdaily.com##.ezoic-ad
 
