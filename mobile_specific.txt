@@ -44,6 +44,9 @@ engadget.com###MOBILE-TOP_ATF
 engadget.com###related-data-content-wrapper > div > [id^="ATF-Center"]:upward(div)
 engadget.com##[data-component="JacAd"]
 
+! https://gizmodo.com
+gizmodo.com###splashy-ad-container-top
+
 ! https://www.govtech.com
 govtech.com##.Enhancement
 govtech.com##.GoogleDfpMobileAd
