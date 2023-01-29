@@ -92,6 +92,9 @@ scitechdaily.com##.ezoic-ad
 sdxcentral.com##.header-lemur
 sdxcentral.com##.sponsored
 
+! https://www.sfchronicle.com
+sfchronicle.com##.belowMastheadWrapper
+
 ! https://www.theregister.com
 theregister.com##.adun
 
