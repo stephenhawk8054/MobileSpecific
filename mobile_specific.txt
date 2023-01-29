@@ -67,6 +67,11 @@ insideevs.com##.small-info-box-ad
 ! https://lifehacker.com
 lifehacker.com###splashy-ad-container-top
 
+! https://www.mangaread.org
+mangaread.org##.ad
+mangaread.org##.c-sidebar
+mangaread.org##.widget_text
+
 ! https://www.mysmartprice.com
 mysmartprice.com##.td-a-rec
 mysmartprice.com##.td-header-sp-recs
