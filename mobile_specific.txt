@@ -22,6 +22,12 @@ arabnews.com##.block-wrapper .ad-holder:upward(.block-wrapper)
 arstechnica.com##.archive-list-insteam
 arstechnica.com###article_end_ad_footer
 
+! https://infomix360.blogspot.com
+blogspot.com###header-ads
+blogspot.com##.AdSense
+blogspot.com##.sidebar .widget ins:upward(.widget)
+blogspot.com##p script:upward(p)
+
 ! https://www.bbc.com
 bbc.co.uk,bbc.com##.dotcom-ad
 
