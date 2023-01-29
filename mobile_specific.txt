@@ -93,6 +93,11 @@ newyorker.com##.full-bleed-ad
 ! https://www.notebookcheck.net
 notebookcheck.net###nbc_bb
 
+! https://nypost.com
+nypost.com##.ad
+nypost.com##.single__outbrain
+nypost.com##.widget-wrapper .ad:upward(.widget-wrapper)
+
 ! https://www.nytimes.com
 nytimes.com##[data-hierarchy="zone"] > div > div > div:not([class]) [data-testid="StandardAd"]:upward([data-hierarchy="zone"] > div > div)
 nytimes.com##[id^="story-ad-"][id$="-wrapper"]
