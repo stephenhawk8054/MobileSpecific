@@ -124,6 +124,10 @@ silverliningsinfo.com##.block-quartz-ads
 silverliningsinfo.com##.header-ad-row
 silverliningsinfo.com##.prosumer-wrapper > div .ad-container:upward(div)
 
+! https://www.teslarati.com
+teslarati.com##.in-article-ad
+teslarati.com###article-ad
+
 ! https://thenextweb.com
 thenextweb.com##.tnw-ad
 
