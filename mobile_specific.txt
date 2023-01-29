@@ -140,6 +140,10 @@ usatoday.com##.gnt_xmst
 ! https://viralonce.xyz
 viralonce.xyz##.code-block
 
+! https://www.wbay.com
+wbay.com##.arc-ad
+wbay.com##.taboola-feature
+
 ! https://www.wired.com
 wired.com##.ad-height-hold
 
