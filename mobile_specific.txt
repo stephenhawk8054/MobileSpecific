@@ -8,6 +8,10 @@
 ! GitHub issues: https://github.com/stephenhawk8054/MobileSpecific/issues
 ! GitHub pull requests: https://github.com/stephenhawk8054/MobileSpecific/pulls
 
+! https://abcnews.go.com
+abcnews.go.com##[data-testid="prism-sticky-ad"]
+abcnews.go.com##[data-testid="prism-taboola"]
+
 ! https://www.androidheadlines.com
 androidheadlines.com##.ad-wrapper
 androidheadlines.com##.row > div > .ad-wrapper:upward(.row)
