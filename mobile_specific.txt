@@ -82,6 +82,10 @@ hollywoodreporter.com##[class^="u-padding"]
 insideevs.com##.m1_MobileMPU
 insideevs.com##.small-info-box-ad
 
+! https://www.kdnuggets.com
+kdnuggets.com###ad_wrapper
+kdnuggets.com###post-header-ad
+
 ! https://lifehacker.com
 lifehacker.com###splashy-ad-container-top
 
