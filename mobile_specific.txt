@@ -16,6 +16,9 @@ abcnews.go.com##[data-testid="prism-taboola"]
 androidheadlines.com##.ad-wrapper
 androidheadlines.com##.row > div > .ad-wrapper:upward(.row)
 
+! https://www.androidpolice.com
+androidpolice.com##.adsninja-ad-zone
+
 ! https://appleinsider.com
 appleinsider.com##.row > div > .primis-ad-wrap:upward(div)
 
