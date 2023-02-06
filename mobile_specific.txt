@@ -52,6 +52,9 @@ channelnewsasia.com##.sponsors
 ! https://defensescoop.com
 defensescoop.com##.ad
 
+! https://www.drive.com.au
+drive.com.au##[class*="layout__ad-bg"]
+
 ! nationalpost-sites
 driving.ca,healthing.ca,nationalpost.com,thegrowthop.com##.ad__section-border
 driving.ca,healthing.ca,nationalpost.com,thegrowthop.com##.vf-ad-comments
