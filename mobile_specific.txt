@@ -103,6 +103,10 @@ mangaread.org##.ad
 mangaread.org##.c-sidebar
 mangaread.org##.widget_text
 
+! https://manofmany.com
+manofmany.com##.mom-ads__inner
+manofmany.com##.mom-ads__wrapper
+
 ! https://www.mmm-online.com
 mmm-online.com##[class*="ad-place"]
 
