@@ -93,6 +93,9 @@ engadget.com###MOBILE-TOP_ATF
 engadget.com###related-data-content-wrapper > div > [id^="ATF-Center"]:upward(div)
 engadget.com##[data-component="JacAd"]
 
+! https://www.fastcompany.com
+fastcompany.com##.post__article-top-ad-wrapper
+
 ! techradar-sites
 gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com##.ad-unit.ad-unit
 lifehacker.com,kotaku.com###splashy-ad-container-top
