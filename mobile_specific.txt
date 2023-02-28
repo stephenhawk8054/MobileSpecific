@@ -65,6 +65,9 @@ bbc.co.uk,bbc.com##.dotcom-ad
 ! https://www.bleepingcomputer.com
 bleepingcomputer.com##.adsbygoogle
 
+! bloomberg.com
+bloomberg.com##.page-ad,div[data-ad-placeholder],div[class*="-ad-top"],div[id^="fortress-"]
+
 ! https://browsertouse.com
 browsertouse.com##.ezoic-ad
 browsertouse.com##div[id^="brows"] > .ezoic-ad:upward(1)
