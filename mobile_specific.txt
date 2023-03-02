@@ -136,6 +136,10 @@ gq.*##.ad
 gq.*##.ad-height-hold
 gq.*##.ad-stickyhero
 
+! https://www.grunge.com
+grunge.com###primis-container
+grunge.com##.google-ad-placeholder
+
 ! https://www.hollywoodreporter.com
 hollywoodreporter.com##.admz
 hollywoodreporter.com##[class^="u-padding"]
