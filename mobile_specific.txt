@@ -1,7 +1,7 @@
 ! Title: Mobile Specific
 ! Description: Specific cosmetic filters for uBlock Origin on mobile with "Ignore generic cosmetic filters" enabled
 ! Expires: 12 hours
-! Last modified: 07 Mar 2023 11:17 UTC
+! Last modified: 11 Mar 2023 03:47 UTC
 ! Homepage: https://github.com/stephenhawk8054/MobileSpecific
 ! License: https://github.com/stephenhawk8054/MobileSpecific/blob/main/LICENSE
 !
@@ -52,6 +52,9 @@ artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbrepor
 artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[id^="taboola-below-article-thumbnails"]
 artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##li.o-tease-list__item .admz:upward(li)
 robbreport.com##.module > .admz:upward(1)
+
+! https://avecfacts.com
+avecfacts.com##.wpcnt
 
 ! https://infomix360.blogspot.com
 blogspot.com###header-ads
