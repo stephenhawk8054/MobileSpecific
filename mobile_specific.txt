@@ -126,6 +126,11 @@ exceljet.net##.ad
 ! https://www.fastcompany.com
 fastcompany.com##.post__article-top-ad-wrapper
 
+! https://www.fiercebiotech.com
+fiercebiotech.com##.ad-container
+fiercebiotech.com##.block-quartz-ads
+fiercebiotech.com##.prosumer-wrapper > div > .ad-container:upward(1)
+
 ! https://www.fiercepharma.com
 fiercepharma.com##.node__content > .layout.strong
 
