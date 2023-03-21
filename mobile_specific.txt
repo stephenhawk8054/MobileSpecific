@@ -123,6 +123,9 @@ engadget.com###MOBILE-TOP_ATF
 engadget.com###related-data-content-wrapper > div > [id^="ATF-Center"]:upward(div)
 engadget.com##[data-component="JacAd"]
 
+! englishclub.com
+englishclub.com##.ECnoprint > div ins:upward(.ECnoprint > div)
+
 ! https://exceljet.net
 exceljet.net##.ad
 
