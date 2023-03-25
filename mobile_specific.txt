@@ -286,6 +286,10 @@ nypost.com##.widget-wrapper .ad:upward(.widget-wrapper)
 nytimes.com##[data-hierarchy="zone"] > div > div > div:not([class]) [data-testid="StandardAd"]:upward([data-hierarchy="zone"] > div > div)
 nytimes.com##[id^="story-ad-"][id$="-wrapper"]
 
+! https://petapixel.com
+petapixel.com###fixed-ad-container
+petapixel.com##.instream_ad
+
 ! qz.com
 qz.com###splashy-ad-container-top
 qz.com##.js_movable_ad_slot
