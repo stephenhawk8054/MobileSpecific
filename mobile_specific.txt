@@ -33,9 +33,6 @@ amateurphotographer.com##.header-ad
 ! https://www.androidheadlines.com
 androidheadlines.com##.row > div > .ad-wrapper:upward(.row)
 
-! https://www.androidpolice.com
-androidpolice.com##.adsninja-ad-zone
-
 ! https://appleinsider.com
 appleinsider.com##.row > div > .primis-ad-wrap:upward(div)
 
@@ -281,9 +278,6 @@ m.slashdot.org##.river_top
 ! https://m.timesofindia.com
 m.timesofindia.com##.ad_text
 
-! https://www.makeuseof.com
-makeuseof.com##.adsninja-ad-zone
-
 ! https://www.mangaread.org
 mangaread.org##.ad
 mangaread.org##.c-sidebar
@@ -364,9 +358,6 @@ saytruyenvip.com##.ad
 ! https://www.schengenvisainfo.com
 schengenvisainfo.com##.td-a-ad
 schengenvisainfo.com##.td-block > .td-adspot-title:upward(1)
-
-! https://screenrant.com
-screenrant.com##.adsninja-ad-zone
 
 ! https://www.sdxcentral.com
 sdxcentral.com##.header-lemur
@@ -465,9 +456,6 @@ wired.*##.full-bleed-ad
 ! https://www.wordhippo.com
 wordhippo.com###topbaddiv
 wordhippo.com##[id^="mobilead"]
-
-! https://www.xda-developers.com
-xda-developers.com##.adsninja-ad-zone
 
 ! https://www.zdnet.com
 zdnet.com##.c-adDisplay_container
