@@ -187,6 +187,10 @@
         "number": 1,
         "domain": "arstechnica.com"
     },
+    "[class^=\"u-padding\"]": {
+        "number": 1,
+        "domain": "hollywoodreporter.com"
+    },
     ".module > .admz:upward(1)": {
         "number": 1,
         "domain": "robbreport.com"
@@ -442,10 +446,6 @@
     "div[style] > .adsbygoogle:upward(1)": {
         "number": 1,
         "domain": "guidingtech.com"
-    },
-    "[class^=\"u-padding\"]": {
-        "number": 1,
-        "domain": "hollywoodreporter.com"
     },
     ".info-links-sticky": {
         "number": 1,
