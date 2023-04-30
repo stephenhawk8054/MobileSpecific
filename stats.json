@@ -1,205 +1,826 @@
 {
-    ".ad": 11,
-    "#splashy-ad-container-top": 4,
-    ".ad-height-hold": 4,
-    ".ad-stickyhero": 3,
-    ".admz": 2,
-    ".c-adDisplay_container": 2,
-    ".c-adSkyBox": 2,
-    ".ad-container": 2,
-    ".block-quartz-ads": 2,
-    ".movable-ad": 2,
-    ".full-bleed-ad": 2,
-    ".ad-no-notice": 1,
-    "[class*=\"StyledInlineTaboola\"]": 1,
-    ".adl-ad-container": 1,
-    "[data-testid=\"prism-sticky-ad\"]": 1,
-    "[data-testid=\"prism-taboola\"]": 1,
-    ".sponsored-content-section": 1,
-    "div[style] > [class^=\"AdsenseAd_putFood\"]:upward(1)": 1,
-    "div[style] > template:upward(1)": 1,
-    ".content-ad": 1,
-    ".header-ad": 1,
-    ".row > div > .ad-wrapper:upward(.row)": 1,
-    ".row > div > .primis-ad-wrap:upward(div)": 1,
-    ".block-wrapper .ad-holder:upward(.block-wrapper)": 1,
-    ".archive-list-insteam": 1,
-    ".instream-wrap": 1,
-    "#article_end_ad_footer": 1,
-    ".generic-ad-module": 1,
-    ".lrv-a-wrapper > .widget_pmc_marketplace_ads:upward(1)": 1,
-    ".lrv-u-background-color-grey-lightest > #cx-post-wwd-recommends:upward(1)": 1,
-    ".mobile-header-ad": 1,
-    ".pmc-contextual-player": 1,
-    ".pmc-sticky-sidebar": 1,
-    ".widget_cxense": 1,
-    "[class*=\"leaderboard-ad\"]": 1,
-    "[id^=\"taboola-below-article-thumbnails\"]": 1,
-    "li.o-tease-list__item .admz:upward(li)": 1,
-    ".module > .admz:upward(1)": 1,
-    ".adthrive": 1,
-    ".adthrive-ad": 1,
-    ".wpcnt": 1,
-    "#header-ads": 1,
-    ".AdSense": 1,
-    ".sidebar .widget ins:upward(.widget)": 1,
-    "p script:upward(p)": 1,
-    ".dotcom-ad": 1,
-    ".adsbygoogle": 1,
-    ".page-ad,div[data-ad-placeholder],div[class*=\"-ad-top\"],div[id^=\"fortress-\"]": 1,
-    ".admob": 1,
-    "div[id^=\"brows\"] > .ezoic-ad:upward(1)": 1,
-    ".l-ad": 1,
-    ".taboola-container": 1,
-    "[data-component-type=\"ad-swapper\"]": 1,
-    ".dfp-ad": 1,
-    ".block-ad-entity": 1,
-    ".sponsors": 1,
-    "#content-ad": 1,
-    ".index-content-ad-wrapper": 1,
-    ".short-sidebar-ad-component": 1,
-    ".alm-advert": 1,
-    ".google-ad:not(.testAd)": 1,
-    "li > .google-ad:upward(1)": 1,
-    ".mrf-adv__wrapper": 1,
-    ".ribbon": 1,
-    "#imu1forarticles": 1,
-    ".crawl-promo-1": 1,
-    ".ad-placement:not(.adsbox):not(.afs_ads):not(#ablockercheck)": 1,
-    "[class^=\"mdbl_\"]": 1,
-    ".adhesiveAdWrapper": 1,
-    "[id^=\"article\"] > div [data-ad-unit-id]:upward([id^=\"article\"] > div)": 1,
-    "[data-cy=\"HomepageAdWrapper\"]": 1,
-    ".b-mem-post--ads": 1,
-    ".dt-primis": 1,
-    "[class*=\"layout__ad-bg\"]": 1,
-    ".ad__section-border": 1,
-    ".vf-ad-comments": 1,
-    ".vf-promo-wrapper": 1,
-    ".ad-tag": 1,
-    "#MOBILE-TOP_ATF": 1,
-    "#related-data-content-wrapper > div > [id^=\"ATF-Center\"]:upward(div)": 1,
-    "[data-component=\"JacAd\"]": 1,
-    ".ECnoprint > div ins:upward(.ECnoprint > div)": 1,
-    ".masthead-container": 1,
-    ".ad-wrapper--ad-unit-wrap": 1,
-    ".post__article-top-ad-wrapper": 1,
-    "[class$=\"-ad-container\"]": 1,
-    ".prosumer-wrapper > div > .ad-container:upward(1)": 1,
-    ".node__content > .layout.strong": 1,
-    "[data-ref=\"banner\"]": 1,
-    "div[class^=\"sc\"] > [id^=\"InStream\"]:upward(1)": 1,
-    "div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"] div[id^=\"SimpleInStream\"]:upward(div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"])": 1,
-    ".addisclaimer": 1,
-    ".entry-content > center": 1,
-    ".vce-ad-container": 1,
-    ".banner": 1,
-    ".ad-unit.ad-unit": 1,
-    ".wp-block-template-part [id^=\"adngin\"]:upward(.wp-block-template-part)": 1,
-    ".ad-slot-wrapper": 1,
-    ".homepage__native-ad": 1,
-    ".Enhancement": 1,
-    ".GoogleDfpMobileAd": 1,
-    "[id^=\"googleAd\"]": 1,
-    "#primis-container": 1,
-    ".google-ad-placeholder": 1,
-    "div[class^=\"at\"][style]": 1,
-    "div[style] > .adsbygoogle:upward(1)": 1,
-    "[class^=\"u-padding\"]": 1,
-    ".info-links-sticky": 1,
-    ".sidebar--sticky": 1,
-    "header:style(top: 0px !important; position: inherit !important;)": 1,
-    ".m1_MobileMPU": 1,
-    ".small-info-box-ad": 1,
-    "#adhesive_container": 1,
-    ".amp-wp-content .ezoic-ad:upward(.amp-wp-content)": 1,
-    "#adfreeDivMobile": 1,
-    "#aniview-ads": 1,
-    "#subscribeAd": 1,
-    ".taboolaHeight": 1,
-    "[class^=\"ad\"][class*=\"Height\"]": 1,
-    "#ad_wrapper": 1,
-    "#post-header-ad": 1,
-    "#Header_1": 1,
-    ".ad-on": 1,
-    ".google_ad": 1,
-    ".river_top": 1,
-    ".ad_text": 1,
-    ".c-sidebar": 1,
-    ".widget_text": 1,
-    ".mom-ads__inner": 1,
-    ".mom-ads__wrapper": 1,
-    "#demo > div[style]": 1,
-    "#showReadNext div[style] > span:has-text(ADVERTISEMENT):upward(1)": 1,
-    "div[style] > pubguru:upward(1)": 1,
-    "[class*=\"ad-place\"]": 1,
-    ".td-a-rec": 1,
-    ".td-header-sp-recs": 1,
-    ".header-banner-ads": 1,
-    ".Page-below-content": 1,
-    ".advertorial": 1,
-    ".article__bottom-ad-slot": 1,
-    ".outbrain": 1,
-    "#nbc_bb": 1,
-    ".single__outbrain": 1,
-    ".widget-wrapper .ad:upward(.widget-wrapper)": 1,
-    "[data-hierarchy=\"zone\"] > div > div > div:not([class]) [data-testid=\"StandardAd\"]:upward([data-hierarchy=\"zone\"] > div > div)": 1,
-    "[id^=\"story-ad-\"][id$=\"-wrapper\"]": 1,
-    ".b2p-adv": 1,
-    "[class*=\"indexstyles__Ad\"]": 1,
-    "#fixed-ad-container": 1,
-    ".instream_ad": 1,
-    ".vc_column-inner script:upward(.vc_column-inner)": 1,
-    ".ad-injection": 1,
-    ".js_movable_ad_slot": 1,
-    ".js_sticky-footer": 1,
-    "div > .js_commerce-inset-permalink:upward(1)": 1,
-    "main div > .ad-container:upward(1)": 1,
-    ".empire-unit-prefill-container": 1,
-    ".td-a-ad": 1,
-    ".td-block > .td-adspot-title:upward(1)": 1,
-    ".header-lemur": 1,
-    ".sponsored": 1,
-    ".rst_bsac": 1,
-    ".belowMastheadWrapper": 1,
-    ".is-below-header-ad.m-balloon-header": 1,
-    ".l-grid--ad-card": 1,
-    ".m-detail--feature-spacer": 1,
-    ".m-in-content-ad-row": 1,
-    ".m-outbrain": 1,
-    ".header-ad-row": 1,
-    ".prosumer-wrapper > div .ad-container:upward(div)": 1,
-    ".sdc-site-au": 1,
-    ".sdc-site-layout-sticky-region": 1,
-    ".site-component-vertical-margin-l": 1,
-    ".adWrapper": 1,
-    "[data-testid=\"sponsored-story-tile\"]": 1,
-    ".ad-right": 1,
-    ".viafoura": 1,
-    "[id^=\"mpu\"]": 1,
-    ".block-inline-blockwidget-block": 1,
-    ".dfp-ads": 1,
-    ".dfp-tag-wrapper": 1,
-    ".is-ad-article": 1,
-    ".in-article-ad": 1,
-    "#article-ad": 1,
-    ".cf[class^=\"google-\"]": 1,
-    "[class^=\"ad_\"]": 1,
-    ".tnw-ad": 1,
-    ".adun": 1,
-    ".leaderboard-ad-component": 1,
-    ".advert-wrapper": 1,
-    ".customiser-v2-layout-1-billboard-container": 1,
-    ".customiser-v2-layout-three-native-ad-container": 1,
-    ".widget_thesun_dfp_ad_widget": 1,
-    "#LeaderBoardTop": 1,
-    ".ad-panel": 1,
-    "[data-x-bind=\"merchAd\"]": 1,
-    ".gnt_xmst": 1,
-    ".code-block": 1,
-    ".arc-ad": 1,
-    ".taboola-feature": 1,
-    ".card ins:upward(.card)": 1,
-    "#topbaddiv": 1,
-    "[id^=\"mobilead\"]": 1
+    ".admz": {
+        "number": 15,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".generic-ad-module": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".lrv-a-wrapper > .widget_pmc_marketplace_ads:upward(1)": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".lrv-u-background-color-grey-lightest > #cx-post-wwd-recommends:upward(1)": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".mobile-header-ad": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".pmc-contextual-player": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".pmc-sticky-sidebar": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".widget_cxense": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    "[class*=\"leaderboard-ad\"]": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    "[id^=\"taboola-below-article-thumbnails\"]": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    "li.o-tease-list__item .admz:upward(li)": {
+        "number": 14,
+        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+    },
+    ".ad": {
+        "number": 11,
+        "domain": "crn.com,defensescoop.com,elpais.com,exceljet.net,glamour.com,gq.*,mangaread.org,newyorker.com,nypost.com,saytruyenvip.com,wired.*"
+    },
+    ".ad-unit.ad-unit": {
+        "number": 9,
+        "domain": "gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com"
+    },
+    "#splashy-ad-container-top": {
+        "number": 5,
+        "domain": "gizmodo.com,kotaku.com,lifehacker.com,lifehacker.com,qz.com"
+    },
+    ".ad__section-border": {
+        "number": 4,
+        "domain": "driving.ca,healthing.ca,nationalpost.com,thegrowthop.com"
+    },
+    ".vf-ad-comments": {
+        "number": 4,
+        "domain": "driving.ca,healthing.ca,nationalpost.com,thegrowthop.com"
+    },
+    ".vf-promo-wrapper": {
+        "number": 4,
+        "domain": "driving.ca,healthing.ca,nationalpost.com,thegrowthop.com"
+    },
+    ".ad-height-hold": {
+        "number": 4,
+        "domain": "glamour.com,gq.*,newyorker.com,wired.*"
+    },
+    ".ad-stickyhero": {
+        "number": 3,
+        "domain": "glamour.com,gq.*,wired.*"
+    },
+    ".dotcom-ad": {
+        "number": 2,
+        "domain": "bbc.co.uk,bbc.com"
+    },
+    ".l-ad": {
+        "number": 2,
+        "domain": "businessinsider.com,insider.com"
+    },
+    ".taboola-container": {
+        "number": 2,
+        "domain": "businessinsider.com,insider.com"
+    },
+    "[data-component-type=\"ad-swapper\"]": {
+        "number": 2,
+        "domain": "businessinsider.com,insider.com"
+    },
+    ".c-adDisplay_container": {
+        "number": 2,
+        "domain": "cnet.com,zdnet.com"
+    },
+    ".c-adSkyBox": {
+        "number": 2,
+        "domain": "cnet.com,zdnet.com"
+    },
+    ".ad-container": {
+        "number": 2,
+        "domain": "fiercebiotech.com,silverliningsinfo.com"
+    },
+    ".block-quartz-ads": {
+        "number": 2,
+        "domain": "fiercebiotech.com,silverliningsinfo.com"
+    },
+    ".movable-ad": {
+        "number": 2,
+        "domain": "gizmodo.com,qz.com"
+    },
+    ".full-bleed-ad": {
+        "number": 2,
+        "domain": "newyorker.com,wired.*"
+    },
+    ".sdc-site-au": {
+        "number": 2,
+        "domain": "sky.com,skysports.com"
+    },
+    ".sdc-site-layout-sticky-region": {
+        "number": 2,
+        "domain": "sky.com,skysports.com"
+    },
+    ".ad-no-notice": {
+        "number": 1,
+        "domain": "7news.com.au"
+    },
+    "[class*=\"StyledInlineTaboola\"]": {
+        "number": 1,
+        "domain": "7news.com.au"
+    },
+    ".adl-ad-container": {
+        "number": 1,
+        "domain": "aafp.org"
+    },
+    "[data-testid=\"prism-sticky-ad\"]": {
+        "number": 1,
+        "domain": "abcnews.go.com"
+    },
+    "[data-testid=\"prism-taboola\"]": {
+        "number": 1,
+        "domain": "abcnews.go.com"
+    },
+    ".sponsored-content-section": {
+        "number": 1,
+        "domain": "allthatsinteresting.com"
+    },
+    "div[style] > [class^=\"AdsenseAd_putFood\"]:upward(1)": {
+        "number": 1,
+        "domain": "alternativeto.net"
+    },
+    "div[style] > template:upward(1)": {
+        "number": 1,
+        "domain": "alternativeto.net"
+    },
+    ".content-ad": {
+        "number": 1,
+        "domain": "amateurphotographer.com"
+    },
+    ".header-ad": {
+        "number": 1,
+        "domain": "amateurphotographer.com"
+    },
+    ".row > div > .ad-wrapper:upward(.row)": {
+        "number": 1,
+        "domain": "androidheadlines.com"
+    },
+    ".row > div > .primis-ad-wrap:upward(div)": {
+        "number": 1,
+        "domain": "appleinsider.com"
+    },
+    ".block-wrapper .ad-holder:upward(.block-wrapper)": {
+        "number": 1,
+        "domain": "arabnews.com"
+    },
+    ".archive-list-insteam": {
+        "number": 1,
+        "domain": "arstechnica.com"
+    },
+    ".instream-wrap": {
+        "number": 1,
+        "domain": "arstechnica.com"
+    },
+    "#article_end_ad_footer": {
+        "number": 1,
+        "domain": "arstechnica.com"
+    },
+    ".module > .admz:upward(1)": {
+        "number": 1,
+        "domain": "robbreport.com"
+    },
+    ".adthrive": {
+        "number": 1,
+        "domain": "askpython.com"
+    },
+    ".adthrive-ad": {
+        "number": 1,
+        "domain": "askpython.com"
+    },
+    ".wpcnt": {
+        "number": 1,
+        "domain": "avecfacts.com"
+    },
+    "#header-ads": {
+        "number": 1,
+        "domain": "blogspot.com"
+    },
+    ".AdSense": {
+        "number": 1,
+        "domain": "blogspot.com"
+    },
+    ".sidebar .widget ins:upward(.widget)": {
+        "number": 1,
+        "domain": "blogspot.com"
+    },
+    "p script:upward(p)": {
+        "number": 1,
+        "domain": "blogspot.com"
+    },
+    ".adsbygoogle": {
+        "number": 1,
+        "domain": "bleepingcomputer.com"
+    },
+    ".page-ad": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    "div[data-ad-placeholder]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    "div[class*=\"-ad-top\"]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    "div[id^=\"fortress-\"]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    ".admob": {
+        "number": 1,
+        "domain": "bongdaplus.vn"
+    },
+    "div[id^=\"brows\"] > .ezoic-ad:upward(1)": {
+        "number": 1,
+        "domain": "browsertouse.com"
+    },
+    ".dfp-ad": {
+        "number": 1,
+        "domain": "c4isrnet.com"
+    },
+    ".block-ad-entity": {
+        "number": 1,
+        "domain": "channelnewsasia.com"
+    },
+    ".sponsors": {
+        "number": 1,
+        "domain": "channelnewsasia.com"
+    },
+    "#content-ad": {
+        "number": 1,
+        "domain": "chess.com"
+    },
+    ".index-content-ad-wrapper": {
+        "number": 1,
+        "domain": "chess.com"
+    },
+    ".short-sidebar-ad-component": {
+        "number": 1,
+        "domain": "chess.com"
+    },
+    ".alm-advert": {
+        "number": 1,
+        "domain": "clashmusic.com"
+    },
+    ".google-ad:not(.testAd)": {
+        "number": 1,
+        "domain": "clashmusic.com"
+    },
+    "li > .google-ad:upward(1)": {
+        "number": 1,
+        "domain": "clashmusic.com"
+    },
+    ".mrf-adv__wrapper": {
+        "number": 1,
+        "domain": "cleantechnica.com"
+    },
+    ".ribbon": {
+        "number": 1,
+        "domain": "crn.com"
+    },
+    "#imu1forarticles": {
+        "number": 1,
+        "domain": "crn.com"
+    },
+    ".crawl-promo-1": {
+        "number": 1,
+        "domain": "computerworld.com"
+    },
+    ".ad-placement:not(.adsbox):not(.afs_ads):not(#ablockercheck)": {
+        "number": 1,
+        "domain": "computerworld.com"
+    },
+    "[class^=\"mdbl_\"]": {
+        "number": 1,
+        "domain": "dantri.com.vn"
+    },
+    ".adhesiveAdWrapper": {
+        "number": 1,
+        "domain": "dexerto.com"
+    },
+    "[id^=\"article\"] > div [data-ad-unit-id]:upward([id^=\"article\"] > div)": {
+        "number": 1,
+        "domain": "dexerto.com"
+    },
+    "[data-cy=\"HomepageAdWrapper\"]": {
+        "number": 1,
+        "domain": "dexerto.com"
+    },
+    ".b-mem-post--ads": {
+        "number": 1,
+        "domain": "digitaltrends.com"
+    },
+    ".dt-primis": {
+        "number": 1,
+        "domain": "digitaltrends.com"
+    },
+    "[class*=\"layout__ad-bg\"]": {
+        "number": 1,
+        "domain": "drive.com.au"
+    },
+    ".ad-tag": {
+        "number": 1,
+        "domain": "ehn.org"
+    },
+    "#MOBILE-TOP_ATF": {
+        "number": 1,
+        "domain": "engadget.com"
+    },
+    "#related-data-content-wrapper > div > [id^=\"ATF-Center\"]:upward(div)": {
+        "number": 1,
+        "domain": "engadget.com"
+    },
+    "[data-component=\"JacAd\"]": {
+        "number": 1,
+        "domain": "engadget.com"
+    },
+    ".ECnoprint > div ins:upward(.ECnoprint > div)": {
+        "number": 1,
+        "domain": "englishclub.com"
+    },
+    ".masthead-container": {
+        "number": 1,
+        "domain": "ephotozine.com"
+    },
+    ".ad-wrapper--ad-unit-wrap": {
+        "number": 1,
+        "domain": "fastcompany.com"
+    },
+    ".post__article-top-ad-wrapper": {
+        "number": 1,
+        "domain": "fastcompany.com"
+    },
+    "[class$=\"-ad-container\"]": {
+        "number": 1,
+        "domain": "fastcompany.com"
+    },
+    ".prosumer-wrapper > div > .ad-container:upward(1)": {
+        "number": 1,
+        "domain": "fiercebiotech.com"
+    },
+    ".node__content > .layout.strong": {
+        "number": 1,
+        "domain": "fiercepharma.com"
+    },
+    "[data-ref=\"banner\"]": {
+        "number": 1,
+        "domain": "forexlive.com"
+    },
+    "div[class^=\"sc\"] > [id^=\"InStream\"]:upward(1)": {
+        "number": 1,
+        "domain": "fortune.com"
+    },
+    "div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"] div[id^=\"SimpleInStream\"]:upward(div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"])": {
+        "number": 1,
+        "domain": "fortune.com"
+    },
+    ".addisclaimer": {
+        "number": 1,
+        "domain": "fossmint.com"
+    },
+    ".entry-content > center": {
+        "number": 1,
+        "domain": "fossmint.com"
+    },
+    ".vce-ad-container": {
+        "number": 1,
+        "domain": "fossmint.com"
+    },
+    ".banner": {
+        "number": 1,
+        "domain": "freecodecamp.org"
+    },
+    ".wp-block-template-part [id^=\"adngin\"]:upward(.wp-block-template-part)": {
+        "number": 1,
+        "domain": "geekflare.com"
+    },
+    ".ad-slot-wrapper": {
+        "number": 1,
+        "domain": "gizmodo.com.au"
+    },
+    ".homepage__native-ad": {
+        "number": 1,
+        "domain": "glamour.com"
+    },
+    ".Enhancement": {
+        "number": 1,
+        "domain": "govtech.com"
+    },
+    ".GoogleDfpMobileAd": {
+        "number": 1,
+        "domain": "govtech.com"
+    },
+    "[id^=\"googleAd\"]": {
+        "number": 1,
+        "domain": "govtech.com"
+    },
+    "#primis-container": {
+        "number": 1,
+        "domain": "grunge.com"
+    },
+    ".google-ad-placeholder": {
+        "number": 1,
+        "domain": "grunge.com"
+    },
+    "div[class^=\"at\"][style]": {
+        "number": 1,
+        "domain": "guidingtech.com"
+    },
+    "div[style] > .adsbygoogle:upward(1)": {
+        "number": 1,
+        "domain": "guidingtech.com"
+    },
+    "[class^=\"u-padding\"]": {
+        "number": 1,
+        "domain": "hollywoodreporter.com"
+    },
+    ".info-links-sticky": {
+        "number": 1,
+        "domain": "iflscience.com"
+    },
+    ".sidebar--sticky": {
+        "number": 1,
+        "domain": "iflscience.com"
+    },
+    "header:style(top: 0px !important; position: inherit !important;)": {
+        "number": 1,
+        "domain": "iflscience.com"
+    },
+    ".m1_MobileMPU": {
+        "number": 1,
+        "domain": "insideevs.com"
+    },
+    ".small-info-box-ad": {
+        "number": 1,
+        "domain": "insideevs.com"
+    },
+    "#adhesive_container": {
+        "number": 1,
+        "domain": "interestingengineering.com"
+    },
+    ".amp-wp-content .ezoic-ad:upward(.amp-wp-content)": {
+        "number": 1,
+        "domain": "linuxandubuntu.com"
+    },
+    "#adfreeDivMobile": {
+        "number": 1,
+        "domain": "livemint.com"
+    },
+    "#aniview-ads": {
+        "number": 1,
+        "domain": "livemint.com"
+    },
+    "#subscribeAd": {
+        "number": 1,
+        "domain": "livemint.com"
+    },
+    ".taboolaHeight": {
+        "number": 1,
+        "domain": "livemint.com"
+    },
+    "[class^=\"ad\"][class*=\"Height\"]": {
+        "number": 1,
+        "domain": "livemint.com"
+    },
+    "#ad_wrapper": {
+        "number": 1,
+        "domain": "kdnuggets.com"
+    },
+    "#post-header-ad": {
+        "number": 1,
+        "domain": "kdnuggets.com"
+    },
+    "#Header_1": {
+        "number": 1,
+        "domain": "kstp.com"
+    },
+    ".ad-on": {
+        "number": 1,
+        "domain": "m.slashdot.org"
+    },
+    ".google_ad": {
+        "number": 1,
+        "domain": "m.slashdot.org"
+    },
+    ".river_top": {
+        "number": 1,
+        "domain": "m.slashdot.org"
+    },
+    ".ad_text": {
+        "number": 1,
+        "domain": "m.timesofindia.com"
+    },
+    ".c-sidebar": {
+        "number": 1,
+        "domain": "mangaread.org"
+    },
+    ".widget_text": {
+        "number": 1,
+        "domain": "mangaread.org"
+    },
+    ".mom-ads__inner": {
+        "number": 1,
+        "domain": "manofmany.com"
+    },
+    ".mom-ads__wrapper": {
+        "number": 1,
+        "domain": "manofmany.com"
+    },
+    "#demo > div[style]": {
+        "number": 1,
+        "domain": "meaww.com"
+    },
+    "#showReadNext div[style] > span:has-text(ADVERTISEMENT):upward(1)": {
+        "number": 1,
+        "domain": "meaww.com"
+    },
+    "div[style] > pubguru:upward(1)": {
+        "number": 1,
+        "domain": "meaww.com"
+    },
+    "[class*=\"ad-place\"]": {
+        "number": 1,
+        "domain": "mmm-online.com"
+    },
+    ".td-a-rec": {
+        "number": 1,
+        "domain": "mysmartprice.com"
+    },
+    ".td-header-sp-recs": {
+        "number": 1,
+        "domain": "mysmartprice.com"
+    },
+    ".header-banner-ads": {
+        "number": 1,
+        "domain": "neowin.net"
+    },
+    ".Page-below-content": {
+        "number": 1,
+        "domain": "newatlas.com"
+    },
+    ".advertorial": {
+        "number": 1,
+        "domain": "nikkei.com"
+    },
+    ".article__bottom-ad-slot": {
+        "number": 1,
+        "domain": "nikkei.com"
+    },
+    ".outbrain": {
+        "number": 1,
+        "domain": "nikkei.com"
+    },
+    "#nbc_bb": {
+        "number": 1,
+        "domain": "notebookcheck.net"
+    },
+    ".single__outbrain": {
+        "number": 1,
+        "domain": "nypost.com"
+    },
+    ".widget-wrapper .ad:upward(.widget-wrapper)": {
+        "number": 1,
+        "domain": "nypost.com"
+    },
+    "[data-hierarchy=\"zone\"] > div > div > div:not([class]) [data-testid=\"StandardAd\"]:upward([data-hierarchy=\"zone\"] > div > div)": {
+        "number": 1,
+        "domain": "nytimes.com"
+    },
+    "[id^=\"story-ad-\"][id$=\"-wrapper\"]": {
+        "number": 1,
+        "domain": "nytimes.com"
+    },
+    ".b2p-adv": {
+        "number": 1,
+        "domain": "olympics.com"
+    },
+    "[class*=\"indexstyles__Ad\"]": {
+        "number": 1,
+        "domain": "olympics.com"
+    },
+    "#fixed-ad-container": {
+        "number": 1,
+        "domain": "petapixel.com"
+    },
+    ".instream_ad": {
+        "number": 1,
+        "domain": "petapixel.com"
+    },
+    ".vc_column-inner script:upward(.vc_column-inner)": {
+        "number": 1,
+        "domain": "photoreview.com.au"
+    },
+    ".ad-injection": {
+        "number": 1,
+        "domain": "pressherald.com"
+    },
+    ".js_movable_ad_slot": {
+        "number": 1,
+        "domain": "qz.com"
+    },
+    ".js_sticky-footer": {
+        "number": 1,
+        "domain": "qz.com"
+    },
+    "div > .js_commerce-inset-permalink:upward(1)": {
+        "number": 1,
+        "domain": "qz.com"
+    },
+    "main div > .ad-container:upward(1)": {
+        "number": 1,
+        "domain": "qz.com"
+    },
+    ".empire-unit-prefill-container": {
+        "number": 1,
+        "domain": "popsci.com"
+    },
+    ".td-a-ad": {
+        "number": 1,
+        "domain": "schengenvisainfo.com"
+    },
+    ".td-block > .td-adspot-title:upward(1)": {
+        "number": 1,
+        "domain": "schengenvisainfo.com"
+    },
+    ".header-lemur": {
+        "number": 1,
+        "domain": "sdxcentral.com"
+    },
+    ".sponsored": {
+        "number": 1,
+        "domain": "sdxcentral.com"
+    },
+    ".rst_bsac": {
+        "number": 1,
+        "domain": "sensereceptornews.com"
+    },
+    ".belowMastheadWrapper": {
+        "number": 1,
+        "domain": "sfchronicle.com"
+    },
+    ".is-below-header-ad.m-balloon-header": {
+        "number": 1,
+        "domain": "si.com"
+    },
+    ".l-grid--ad-card": {
+        "number": 1,
+        "domain": "si.com"
+    },
+    ".m-detail--feature-spacer": {
+        "number": 1,
+        "domain": "si.com"
+    },
+    ".m-in-content-ad-row": {
+        "number": 1,
+        "domain": "si.com"
+    },
+    ".m-outbrain": {
+        "number": 1,
+        "domain": "si.com"
+    },
+    ".header-ad-row": {
+        "number": 1,
+        "domain": "silverliningsinfo.com"
+    },
+    ".prosumer-wrapper > div .ad-container:upward(div)": {
+        "number": 1,
+        "domain": "silverliningsinfo.com"
+    },
+    ".site-component-vertical-margin-l": {
+        "number": 1,
+        "domain": "skysports.com"
+    },
+    ".adWrapper": {
+        "number": 1,
+        "domain": "smh.com.au"
+    },
+    "[data-testid=\"sponsored-story-tile\"]": {
+        "number": 1,
+        "domain": "smh.com.au"
+    },
+    ".ad-right": {
+        "number": 1,
+        "domain": "standard.co.uk"
+    },
+    ".viafoura": {
+        "number": 1,
+        "domain": "standard.co.uk"
+    },
+    "[id^=\"mpu\"]": {
+        "number": 1,
+        "domain": "standard.co.uk"
+    },
+    ".block-inline-blockwidget-block": {
+        "number": 1,
+        "domain": "straitstimes.com"
+    },
+    ".dfp-ads": {
+        "number": 1,
+        "domain": "straitstimes.com"
+    },
+    ".dfp-tag-wrapper": {
+        "number": 1,
+        "domain": "straitstimes.com"
+    },
+    ".is-ad-article": {
+        "number": 1,
+        "domain": "tedium.co"
+    },
+    ".in-article-ad": {
+        "number": 1,
+        "domain": "teslarati.com"
+    },
+    "#article-ad": {
+        "number": 1,
+        "domain": "teslarati.com"
+    },
+    ".cf[class^=\"google-\"]": {
+        "number": 1,
+        "domain": "thehackernews.com"
+    },
+    "[class^=\"ad_\"]": {
+        "number": 1,
+        "domain": "thehackernews.com"
+    },
+    ".tnw-ad": {
+        "number": 1,
+        "domain": "thenextweb.com"
+    },
+    ".adun": {
+        "number": 1,
+        "domain": "theregister.com"
+    },
+    ".leaderboard-ad-component": {
+        "number": 1,
+        "domain": "thestar.com"
+    },
+    ".advert-wrapper": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    ".customiser-v2-layout-1-billboard-container": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    ".customiser-v2-layout-three-native-ad-container": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    ".widget_thesun_dfp_ad_widget": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    "#LeaderBoardTop": {
+        "number": 1,
+        "domain": "tuoitre.vn"
+    },
+    ".ad-panel": {
+        "number": 1,
+        "domain": "urbandictionary.com"
+    },
+    "[data-x-bind=\"merchAd\"]": {
+        "number": 1,
+        "domain": "urbandictionary.com"
+    },
+    ".gnt_xmst": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    ".code-block": {
+        "number": 1,
+        "domain": "viralonce.xyz"
+    },
+    ".arc-ad": {
+        "number": 1,
+        "domain": "wbay.com"
+    },
+    ".taboola-feature": {
+        "number": 1,
+        "domain": "wbay.com"
+    },
+    ".card ins:upward(.card)": {
+        "number": 1,
+        "domain": "webbrowsertools.com"
+    },
+    "#topbaddiv": {
+        "number": 1,
+        "domain": "wordhippo.com"
+    },
+    "[id^=\"mobilead\"]": {
+        "number": 1,
+        "domain": "wordhippo.com"
+    }
 }
