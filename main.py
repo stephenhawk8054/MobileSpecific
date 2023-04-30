@@ -1,5 +1,3 @@
-from icecream import ic
-
 from utils import load_text, write_json
 
 
