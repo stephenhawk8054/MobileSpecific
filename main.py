@@ -1,3 +1,5 @@
+from icecream import ic
+
 from utils import load_text, write_json
 
 
@@ -7,10 +9,11 @@ def main():
         if line.startswith('!'):
             continue
 
-        domains = set((line_split := line.split('##'))[0].split(','))
+        line_split = line.split('##')
+        domains = set(line_split[0].split(','))
         for filter in line_split[1].split(','):
             if filter in stats:
-                domains.union(set(stats[filter]['domain'].split(',')))
+                domains = domains.union(set(stats[filter]['domain'].split(',')))
 
             stats[filter] = {
                 'number': len(domains),
