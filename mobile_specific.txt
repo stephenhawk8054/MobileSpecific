@@ -31,7 +31,6 @@ amateurphotographer.com##.content-ad
 amateurphotographer.com##.header-ad
 
 ! https://www.androidheadlines.com
-androidheadlines.com##.ad-wrapper
 androidheadlines.com##.row > div > .ad-wrapper:upward(.row)
 
 ! https://www.androidpolice.com
@@ -89,7 +88,6 @@ bloomberg.com##.page-ad,div[data-ad-placeholder],div[class*="-ad-top"],div[id^="
 bongdaplus.vn##.admob
 
 ! https://browsertouse.com
-browsertouse.com##.ezoic-ad
 browsertouse.com##div[id^="brows"] > .ezoic-ad:upward(1)
 
 ! https://markets.businessinsider.com
@@ -99,9 +97,6 @@ businessinsider.com,insider.com##[data-component-type="ad-swapper"]
 
 ! https://www.c4isrnet.com
 c4isrnet.com##.dfp-ad
-
-! https://www.cbsnews.com
-cbsnews.com##.ad-wrapper
 
 ! https://cnalifestyle.channelnewsasia.com
 channelnewsasia.com##.block-ad-entity
@@ -247,7 +242,6 @@ hollywoodreporter.com##.admz
 hollywoodreporter.com##[class^="u-padding"]
 
 ! https://www.iflscience.com
-iflscience.com##.ad-wrapper
 iflscience.com##.info-links-sticky
 iflscience.com##.sidebar--sticky
 iflscience.com##header:style(top: 0px !important; position: inherit !important;)
@@ -260,7 +254,6 @@ insideevs.com##.small-info-box-ad
 interestingengineering.com###adhesive_container
 
 ! https://www.linuxandubuntu.com
-linuxandubuntu.com##.ezoic-ad
 linuxandubuntu.com##.amp-wp-content .ezoic-ad:upward(.amp-wp-content)
 
 ! https://www.livemint.com
@@ -323,9 +316,6 @@ newyorker.com##.ad
 newyorker.com##.ad-height-hold
 newyorker.com##.full-bleed-ad
 
-! https://nilsenreport.ca
-nilsenreport.ca##.ezoic-ad
-
 ! https://asia.nikkei.com
 nikkei.com##.advertorial
 nikkei.com##.article__bottom-ad-slot
@@ -355,7 +345,6 @@ petapixel.com##.instream_ad
 photoreview.com.au##.vc_column-inner script:upward(.vc_column-inner)
 
 ! https://www.pressherald.com
-pressherald.com##.ad-wrapper
 pressherald.com##.ad-injection
 
 ! qz.com
@@ -375,9 +364,6 @@ saytruyenvip.com##.ad
 ! https://www.schengenvisainfo.com
 schengenvisainfo.com##.td-a-ad
 schengenvisainfo.com##.td-block > .td-adspot-title:upward(1)
-
-! https://scitechdaily.com
-scitechdaily.com##.ezoic-ad
 
 ! https://screenrant.com
 screenrant.com##.adsninja-ad-zone
