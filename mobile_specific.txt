@@ -57,6 +57,7 @@ artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbrepor
 artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[class*="leaderboard-ad"]
 artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[id^="taboola-below-article-thumbnails"]
 artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##li.o-tease-list__item .admz:upward(li)
+hollywoodreporter.com##[class^="u-padding"]
 robbreport.com##.module > .admz:upward(1)
 
 ! https://www.askpython.com
@@ -233,10 +234,6 @@ grunge.com##.google-ad-placeholder
 ! https://www.guidingtech.com
 guidingtech.com##div[class^="at"][style]
 guidingtech.com##div[style] > .adsbygoogle:upward(1)
-
-! https://www.hollywoodreporter.com
-hollywoodreporter.com##.admz
-hollywoodreporter.com##[class^="u-padding"]
 
 ! https://www.iflscience.com
 iflscience.com##.info-links-sticky
