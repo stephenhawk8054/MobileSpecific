@@ -7,10 +7,10 @@ def main():
         if line.startswith('!'):
             continue
 
-        domains = (line_split := line.split('##'))[0].split(',')
+        domains = set((line_split := line.split('##'))[0].split(','))
         for filter in line_split[1].split(','):
             if filter in stats:
-                domains.extend(stats[filter]['domain'].split(','))
+                domains.union(set(stats[filter]['domain'].split(',')))
 
             stats[filter] = {
                 'number': len(domains),

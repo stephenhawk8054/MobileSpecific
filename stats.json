@@ -1,8 +1,4 @@
 {
-    ".admz": {
-        "number": 15,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
-    },
     ".generic-ad-module": {
         "number": 14,
         "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
@@ -43,17 +39,9 @@
         "number": 14,
         "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
-    ".ad": {
-        "number": 11,
-        "domain": "crn.com,defensescoop.com,elpais.com,exceljet.net,glamour.com,gq.*,mangaread.org,newyorker.com,nypost.com,saytruyenvip.com,wired.*"
-    },
     ".ad-unit.ad-unit": {
         "number": 9,
         "domain": "gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com"
-    },
-    "#splashy-ad-container-top": {
-        "number": 5,
-        "domain": "gizmodo.com,kotaku.com,lifehacker.com,lifehacker.com,qz.com"
     },
     ".ad__section-border": {
         "number": 4,
@@ -66,14 +54,6 @@
     ".vf-promo-wrapper": {
         "number": 4,
         "domain": "driving.ca,healthing.ca,nationalpost.com,thegrowthop.com"
-    },
-    ".ad-height-hold": {
-        "number": 4,
-        "domain": "glamour.com,gq.*,newyorker.com,wired.*"
-    },
-    ".ad-stickyhero": {
-        "number": 3,
-        "domain": "glamour.com,gq.*,wired.*"
     },
     ".dotcom-ad": {
         "number": 2,
@@ -90,30 +70,6 @@
     "[data-component-type=\"ad-swapper\"]": {
         "number": 2,
         "domain": "businessinsider.com,insider.com"
-    },
-    ".c-adDisplay_container": {
-        "number": 2,
-        "domain": "cnet.com,zdnet.com"
-    },
-    ".c-adSkyBox": {
-        "number": 2,
-        "domain": "cnet.com,zdnet.com"
-    },
-    ".ad-container": {
-        "number": 2,
-        "domain": "fiercebiotech.com,silverliningsinfo.com"
-    },
-    ".block-quartz-ads": {
-        "number": 2,
-        "domain": "fiercebiotech.com,silverliningsinfo.com"
-    },
-    ".movable-ad": {
-        "number": 2,
-        "domain": "gizmodo.com,qz.com"
-    },
-    ".full-bleed-ad": {
-        "number": 2,
-        "domain": "newyorker.com,wired.*"
     },
     ".sdc-site-au": {
         "number": 2,
@@ -186,6 +142,10 @@
     "#article_end_ad_footer": {
         "number": 1,
         "domain": "arstechnica.com"
+    },
+    ".admz": {
+        "number": 1,
+        "domain": "hollywoodreporter.com"
     },
     ".module > .admz:upward(1)": {
         "number": 1,
@@ -287,6 +247,18 @@
         "number": 1,
         "domain": "cleantechnica.com"
     },
+    ".c-adDisplay_container": {
+        "number": 1,
+        "domain": "zdnet.com"
+    },
+    ".c-adSkyBox": {
+        "number": 1,
+        "domain": "zdnet.com"
+    },
+    ".ad": {
+        "number": 1,
+        "domain": "wired.*"
+    },
     ".ribbon": {
         "number": 1,
         "domain": "crn.com"
@@ -367,6 +339,14 @@
         "number": 1,
         "domain": "fastcompany.com"
     },
+    ".ad-container": {
+        "number": 1,
+        "domain": "silverliningsinfo.com"
+    },
+    ".block-quartz-ads": {
+        "number": 1,
+        "domain": "silverliningsinfo.com"
+    },
     ".prosumer-wrapper > div > .ad-container:upward(1)": {
         "number": 1,
         "domain": "fiercebiotech.com"
@@ -403,13 +383,29 @@
         "number": 1,
         "domain": "freecodecamp.org"
     },
+    "#splashy-ad-container-top": {
+        "number": 1,
+        "domain": "qz.com"
+    },
     ".wp-block-template-part [id^=\"adngin\"]:upward(.wp-block-template-part)": {
         "number": 1,
         "domain": "geekflare.com"
     },
+    ".movable-ad": {
+        "number": 1,
+        "domain": "qz.com"
+    },
     ".ad-slot-wrapper": {
         "number": 1,
         "domain": "gizmodo.com.au"
+    },
+    ".ad-height-hold": {
+        "number": 1,
+        "domain": "wired.*"
+    },
+    ".ad-stickyhero": {
+        "number": 1,
+        "domain": "wired.*"
     },
     ".homepage__native-ad": {
         "number": 1,
@@ -570,6 +566,10 @@
     ".Page-below-content": {
         "number": 1,
         "domain": "newatlas.com"
+    },
+    ".full-bleed-ad": {
+        "number": 1,
+        "domain": "wired.*"
     },
     ".advertorial": {
         "number": 1,
