@@ -655,6 +655,14 @@
         "number": 1,
         "domain": "schengenvisainfo.com"
     },
+    ".pb-ad": {
+        "number": 1,
+        "domain": "science.org"
+    },
+    "main > section .no-border-ads:upward(main > section)": {
+        "number": 1,
+        "domain": "science.org"
+    },
     ".header-lemur": {
         "number": 1,
         "domain": "sdxcentral.com"
