@@ -803,7 +803,27 @@
         "number": 1,
         "domain": "urbandictionary.com"
     },
+    "#gpt-banner_bottom-1": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    ".gnt_flp": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
     ".gnt_xmst": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    "[data-indepth-ad]": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    "[id^=\"gpt-banner\"]": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    "a[rel=\"sponsored\"]": {
         "number": 1,
         "domain": "usatoday.com"
     },

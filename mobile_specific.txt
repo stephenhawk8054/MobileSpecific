@@ -436,7 +436,12 @@ urbandictionary.com##.ad-panel
 urbandictionary.com##[data-x-bind="merchAd"]
 
 ! https://www.usatoday.com
+usatoday.com###gpt-banner_bottom-1
+usatoday.com##.gnt_flp
 usatoday.com##.gnt_xmst
+usatoday.com##[data-indepth-ad]
+usatoday.com##[id^="gpt-banner"]
+usatoday.com##a[rel="sponsored"]
 
 ! https://viralonce.xyz
 viralonce.xyz##.code-block
