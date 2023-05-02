@@ -631,6 +631,10 @@
         "number": 1,
         "domain": "photoreview.com.au"
     },
+    ".ads-container": {
+        "number": 1,
+        "domain": "phys.org"
+    },
     ".ad-injection": {
         "number": 1,
         "domain": "pressherald.com"
