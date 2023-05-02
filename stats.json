@@ -619,6 +619,14 @@
         "number": 1,
         "domain": "olympics.com"
     },
+    ".ad-break": {
+        "number": 1,
+        "domain": "paloaltoonline.com"
+    },
+    ".ad-break-top": {
+        "number": 1,
+        "domain": "paloaltoonline.com"
+    },
     "#fixed-ad-container": {
         "number": 1,
         "domain": "petapixel.com"
