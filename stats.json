@@ -755,6 +755,10 @@
         "number": 1,
         "domain": "teslarati.com"
     },
+    ".adverts": {
+        "number": 1,
+        "domain": "the-scientist.com"
+    },
     ".cf[class^=\"google-\"]": {
         "number": 1,
         "domain": "thehackernews.com"
