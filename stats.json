@@ -471,6 +471,14 @@
         "number": 1,
         "domain": "interestingengineering.com"
     },
+    ".adbreak": {
+        "number": 1,
+        "domain": "kslnewsradio.com"
+    },
+    ".three": {
+        "number": 1,
+        "domain": "kslnewsradio.com"
+    },
     ".amp-wp-content .ezoic-ad:upward(.amp-wp-content)": {
         "number": 1,
         "domain": "linuxandubuntu.com"
