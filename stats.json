@@ -44,8 +44,8 @@
         "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".ad": {
-        "number": 11,
-        "domain": "crn.com,defensescoop.com,elpais.com,exceljet.net,glamour.com,gq.*,mangaread.org,newyorker.com,nypost.com,saytruyenvip.com,wired.*"
+        "number": 12,
+        "domain": "birdwatchingdaily.com,crn.com,defensescoop.com,elpais.com,exceljet.net,glamour.com,gq.*,mangaread.org,newyorker.com,nypost.com,saytruyenvip.com,wired.*"
     },
     ".ad-unit.ad-unit": {
         "number": 9,
@@ -222,6 +222,14 @@
     "p script:upward(p)": {
         "number": 1,
         "domain": "blogspot.com"
+    },
+    ".ad--header": {
+        "number": 1,
+        "domain": "birdwatchingdaily.com"
+    },
+    "div[style] > .mobile-incontent-ad-label:upward(1)": {
+        "number": 1,
+        "domain": "birdwatchingdaily.com"
     },
     ".adsbygoogle": {
         "number": 1,
