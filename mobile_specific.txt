@@ -1,7 +1,7 @@
 ! Title: Mobile Specific
 ! Description: Specific cosmetic filters for uBlock Origin on mobile with "Ignore generic cosmetic filters" enabled
 ! Expires: 12 hours
-! Last modified: 2023.05.02.5
+! Last modified: 2023.05.11.1
 ! Homepage: https://github.com/stephenhawk8054/MobileSpecific
 ! License: https://github.com/stephenhawk8054/MobileSpecific/blob/main/LICENSE
 !
@@ -403,6 +403,11 @@ silverliningsinfo.com##.prosumer-wrapper > div .ad-container:upward(div)
 sky.com,skysports.com##.sdc-site-au
 sky.com,skysports.com##.sdc-site-layout-sticky-region
 skysports.com##.site-component-vertical-margin-l
+
+! https://skyheadlines.com
+skyheadlines.com##.article-promo-bottom
+skyheadlines.com##.article-promo-top
+skyheadlines.com##.widget_tt_ads_widget
 
 ! https://www.smh.com.au
 smh.com.au##.adWrapper

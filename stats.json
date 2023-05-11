@@ -739,6 +739,18 @@
         "number": 1,
         "domain": "skysports.com"
     },
+    ".article-promo-bottom": {
+        "number": 1,
+        "domain": "skyheadlines.com"
+    },
+    ".article-promo-top": {
+        "number": 1,
+        "domain": "skyheadlines.com"
+    },
+    ".widget_tt_ads_widget": {
+        "number": 1,
+        "domain": "skyheadlines.com"
+    },
     ".adWrapper": {
         "number": 1,
         "domain": "smh.com.au"
