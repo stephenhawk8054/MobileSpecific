@@ -1,47 +1,47 @@
 {
     ".admz": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".generic-ad-module": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".lrv-a-wrapper > .widget_pmc_marketplace_ads:upward(1)": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".lrv-u-background-color-grey-lightest > #cx-post-wwd-recommends:upward(1)": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".mobile-header-ad": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".pmc-contextual-player": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".pmc-sticky-sidebar": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".widget_cxense": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     "[class*=\"leaderboard-ad\"]": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     "[id^=\"taboola-below-article-thumbnails\"]": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     "li.o-tease-list__item .admz:upward(li)": {
-        "number": 14,
-        "domain": "artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
+        "number": 15,
+        "domain": "artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com"
     },
     ".ad": {
         "number": 12,

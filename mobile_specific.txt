@@ -1,7 +1,7 @@
 ! Title: Mobile Specific
 ! Description: Specific cosmetic filters for uBlock Origin on mobile with "Ignore generic cosmetic filters" enabled
 ! Expires: 12 hours
-! Last modified: 2023.05.11.1
+! Last modified: 2023.05.12.1
 ! Homepage: https://github.com/stephenhawk8054/MobileSpecific
 ! License: https://github.com/stephenhawk8054/MobileSpecific/blob/main/LICENSE
 !
@@ -46,17 +46,17 @@ arstechnica.com###article_end_ad_footer
 
 ! PMC-sites
 ! artnews.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[class*="@mobile-max"] > .admz:upward(1)
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.admz
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.generic-ad-module
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.lrv-a-wrapper > .widget_pmc_marketplace_ads:upward(1)
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.lrv-u-background-color-grey-lightest > #cx-post-wwd-recommends:upward(1)
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.mobile-header-ad
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.pmc-contextual-player
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.pmc-sticky-sidebar
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.widget_cxense
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[class*="leaderboard-ad"]
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[id^="taboola-below-article-thumbnails"]
-artnews.com,billboard.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##li.o-tease-list__item .admz:upward(li)
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.admz
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.generic-ad-module
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.lrv-a-wrapper > .widget_pmc_marketplace_ads:upward(1)
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.lrv-u-background-color-grey-lightest > #cx-post-wwd-recommends:upward(1)
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.mobile-header-ad
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.pmc-contextual-player
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.pmc-sticky-sidebar
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##.widget_cxense
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[class*="leaderboard-ad"]
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##[id^="taboola-below-article-thumbnails"]
+artnews.com,billboard.com,deadline.com,dirt.com,hollywoodreporter.com,indiewire.com,robbreport.com,rollingstone.com,sheknows.com,sportico.com,spy.com,tvline.com,variety.com,vibe.com,wwd.com##li.o-tease-list__item .admz:upward(li)
 hollywoodreporter.com##[class^="u-padding"]
 robbreport.com##.module > .admz:upward(1)
 
