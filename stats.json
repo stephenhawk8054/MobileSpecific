@@ -799,6 +799,10 @@
         "number": 1,
         "domain": "the-scientist.com"
     },
+    ".inline-promos-skeleton": {
+        "number": 1,
+        "domain": "theconversation.com"
+    },
     ".cf[class^=\"google-\"]": {
         "number": 1,
         "domain": "thehackernews.com"
