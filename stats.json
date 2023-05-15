@@ -51,6 +51,14 @@
         "number": 9,
         "domain": "gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com"
     },
+    "#splashy-ad-container-top": {
+        "number": 4,
+        "domain": "gizmodo.com,kotaku.com,lifehacker.com,qz.com"
+    },
+    ".ad-height-hold": {
+        "number": 4,
+        "domain": "glamour.com,gq.*,newyorker.com,wired.*"
+    },
     ".ad__section-border": {
         "number": 4,
         "domain": "driving.ca,healthing.ca,nationalpost.com,thegrowthop.com"
@@ -63,41 +71,9 @@
         "number": 4,
         "domain": "driving.ca,healthing.ca,nationalpost.com,thegrowthop.com"
     },
-    "#splashy-ad-container-top": {
-        "number": 4,
-        "domain": "gizmodo.com,kotaku.com,lifehacker.com,qz.com"
-    },
-    ".ad-height-hold": {
-        "number": 4,
-        "domain": "glamour.com,gq.*,newyorker.com,wired.*"
-    },
     ".ad-stickyhero": {
         "number": 3,
         "domain": "glamour.com,gq.*,wired.*"
-    },
-    ".dotcom-ad": {
-        "number": 2,
-        "domain": "bbc.co.uk,bbc.com"
-    },
-    ".l-ad": {
-        "number": 2,
-        "domain": "businessinsider.com,insider.com"
-    },
-    ".taboola-container": {
-        "number": 2,
-        "domain": "businessinsider.com,insider.com"
-    },
-    "[data-component-type=\"ad-swapper\"]": {
-        "number": 2,
-        "domain": "businessinsider.com,insider.com"
-    },
-    ".c-adDisplay_container": {
-        "number": 2,
-        "domain": "cnet.com,zdnet.com"
-    },
-    ".c-adSkyBox": {
-        "number": 2,
-        "domain": "cnet.com,zdnet.com"
     },
     ".ad-container": {
         "number": 2,
@@ -107,13 +83,29 @@
         "number": 2,
         "domain": "fiercebiotech.com,silverliningsinfo.com"
     },
-    ".movable-ad": {
+    ".c-adDisplay_container": {
         "number": 2,
-        "domain": "gizmodo.com,qz.com"
+        "domain": "cnet.com,zdnet.com"
+    },
+    ".c-adSkyBox": {
+        "number": 2,
+        "domain": "cnet.com,zdnet.com"
+    },
+    ".dotcom-ad": {
+        "number": 2,
+        "domain": "bbc.co.uk,bbc.com"
     },
     ".full-bleed-ad": {
         "number": 2,
         "domain": "newyorker.com,wired.*"
+    },
+    ".l-ad": {
+        "number": 2,
+        "domain": "businessinsider.com,insider.com"
+    },
+    ".movable-ad": {
+        "number": 2,
+        "domain": "gizmodo.com,qz.com"
     },
     ".sdc-site-au": {
         "number": 2,
@@ -123,509 +115,105 @@
         "number": 2,
         "domain": "sky.com,skysports.com"
     },
-    ".ad-no-notice": {
-        "number": 1,
-        "domain": "7news.com.au"
-    },
-    "[class*=\"StyledInlineTaboola\"]": {
-        "number": 1,
-        "domain": "7news.com.au"
-    },
-    ".adl-ad-container": {
-        "number": 1,
-        "domain": "aafp.org"
-    },
-    "[data-testid=\"prism-sticky-ad\"]": {
-        "number": 1,
-        "domain": "abcnews.go.com"
-    },
-    "[data-testid=\"prism-taboola\"]": {
-        "number": 1,
-        "domain": "abcnews.go.com"
-    },
-    ".sponsored-content-section": {
-        "number": 1,
-        "domain": "allthatsinteresting.com"
-    },
-    "div[style] > [class^=\"AdsenseAd_putFood\"]:upward(1)": {
-        "number": 1,
-        "domain": "alternativeto.net"
-    },
-    "div[style] > template:upward(1)": {
-        "number": 1,
-        "domain": "alternativeto.net"
-    },
-    ".content-ad": {
-        "number": 1,
-        "domain": "amateurphotographer.com"
-    },
-    ".header-ad": {
-        "number": 1,
-        "domain": "amateurphotographer.com"
-    },
-    ".row > div > .ad-wrapper:upward(.row)": {
-        "number": 1,
-        "domain": "androidheadlines.com"
-    },
-    ".row > div > .primis-ad-wrap:upward(div)": {
-        "number": 1,
-        "domain": "appleinsider.com"
-    },
-    ".block-wrapper .ad-holder:upward(.block-wrapper)": {
-        "number": 1,
-        "domain": "arabnews.com"
-    },
-    ".archive-list-insteam": {
-        "number": 1,
-        "domain": "arstechnica.com"
-    },
-    ".instream-wrap": {
-        "number": 1,
-        "domain": "arstechnica.com"
-    },
-    "#article_end_ad_footer": {
-        "number": 1,
-        "domain": "arstechnica.com"
-    },
-    "[class^=\"u-padding\"]": {
-        "number": 1,
-        "domain": "hollywoodreporter.com"
-    },
-    ".module > .admz:upward(1)": {
-        "number": 1,
-        "domain": "robbreport.com"
-    },
-    ".adthrive": {
-        "number": 1,
-        "domain": "askpython.com"
-    },
-    ".adthrive-ad": {
-        "number": 1,
-        "domain": "askpython.com"
-    },
-    ".wpcnt": {
-        "number": 1,
-        "domain": "avecfacts.com"
-    },
-    "#header-ads": {
-        "number": 1,
-        "domain": "blogspot.com"
-    },
-    ".AdSense": {
-        "number": 1,
-        "domain": "blogspot.com"
-    },
-    ".sidebar .widget ins:upward(.widget)": {
-        "number": 1,
-        "domain": "blogspot.com"
-    },
-    "p script:upward(p)": {
-        "number": 1,
-        "domain": "blogspot.com"
-    },
-    ".ad--header": {
-        "number": 1,
-        "domain": "birdwatchingdaily.com"
-    },
-    "div[style] > .mobile-incontent-ad-label:upward(1)": {
-        "number": 1,
-        "domain": "birdwatchingdaily.com"
-    },
-    ".adsbygoogle": {
-        "number": 1,
-        "domain": "bleepingcomputer.com"
-    },
-    ".page-ad": {
-        "number": 1,
-        "domain": "bloomberg.com"
-    },
-    "div[data-ad-placeholder]": {
-        "number": 1,
-        "domain": "bloomberg.com"
-    },
-    "div[class*=\"-ad-top\"]": {
-        "number": 1,
-        "domain": "bloomberg.com"
-    },
-    "div[id^=\"fortress-\"]": {
-        "number": 1,
-        "domain": "bloomberg.com"
-    },
-    ".admob": {
-        "number": 1,
-        "domain": "bongdaplus.vn"
-    },
-    "div[id^=\"brows\"] > .ezoic-ad:upward(1)": {
-        "number": 1,
-        "domain": "browsertouse.com"
-    },
-    ".dfp-ad": {
-        "number": 1,
-        "domain": "c4isrnet.com"
-    },
-    ".block-ad-entity": {
-        "number": 1,
-        "domain": "channelnewsasia.com"
-    },
-    ".sponsors": {
-        "number": 1,
-        "domain": "channelnewsasia.com"
-    },
-    "#content-ad": {
-        "number": 1,
-        "domain": "chess.com"
-    },
-    ".index-content-ad-wrapper": {
-        "number": 1,
-        "domain": "chess.com"
-    },
-    ".short-sidebar-ad-component": {
-        "number": 1,
-        "domain": "chess.com"
-    },
-    ".alm-advert": {
-        "number": 1,
-        "domain": "clashmusic.com"
-    },
-    ".google-ad:not(.testAd)": {
-        "number": 1,
-        "domain": "clashmusic.com"
-    },
-    "li > .google-ad:upward(1)": {
-        "number": 1,
-        "domain": "clashmusic.com"
-    },
-    ".mrf-adv__wrapper": {
-        "number": 1,
-        "domain": "cleantechnica.com"
-    },
-    ".ribbon": {
-        "number": 1,
-        "domain": "crn.com"
-    },
-    "#imu1forarticles": {
-        "number": 1,
-        "domain": "crn.com"
-    },
-    ".crawl-promo-1": {
-        "number": 1,
-        "domain": "computerworld.com"
-    },
-    ".ad-placement:not(.adsbox):not(.afs_ads):not(#ablockercheck)": {
-        "number": 1,
-        "domain": "computerworld.com"
-    },
-    "[class^=\"mdbl_\"]": {
-        "number": 1,
-        "domain": "dantri.com.vn"
-    },
-    ".adhesiveAdWrapper": {
-        "number": 1,
-        "domain": "dexerto.com"
-    },
-    "[id^=\"article\"] > div [data-ad-unit-id]:upward([id^=\"article\"] > div)": {
-        "number": 1,
-        "domain": "dexerto.com"
-    },
-    "[data-cy=\"HomepageAdWrapper\"]": {
-        "number": 1,
-        "domain": "dexerto.com"
-    },
-    ".b-mem-post--ads": {
-        "number": 1,
-        "domain": "digitaltrends.com"
-    },
-    ".dt-primis": {
-        "number": 1,
-        "domain": "digitaltrends.com"
-    },
-    "[class*=\"layout__ad-bg\"]": {
-        "number": 1,
-        "domain": "drive.com.au"
-    },
-    ".ad-tag": {
-        "number": 1,
-        "domain": "ehn.org"
-    },
-    "#MOBILE-TOP_ATF": {
-        "number": 1,
-        "domain": "engadget.com"
-    },
-    "#related-data-content-wrapper > div > [id^=\"ATF-Center\"]:upward(div)": {
-        "number": 1,
-        "domain": "engadget.com"
-    },
-    "[data-component=\"JacAd\"]": {
-        "number": 1,
-        "domain": "engadget.com"
-    },
-    ".ECnoprint > div ins:upward(.ECnoprint > div)": {
-        "number": 1,
-        "domain": "englishclub.com"
-    },
-    ".masthead-container": {
-        "number": 1,
-        "domain": "ephotozine.com"
-    },
-    ".ad-wrapper--ad-unit-wrap": {
-        "number": 1,
-        "domain": "fastcompany.com"
-    },
-    ".post__article-top-ad-wrapper": {
-        "number": 1,
-        "domain": "fastcompany.com"
-    },
-    "[class$=\"-ad-container\"]": {
-        "number": 1,
-        "domain": "fastcompany.com"
-    },
-    ".prosumer-wrapper > div > .ad-container:upward(1)": {
-        "number": 1,
-        "domain": "fiercebiotech.com"
-    },
-    ".node__content > .layout.strong": {
-        "number": 1,
-        "domain": "fiercepharma.com"
-    },
-    "[data-ref=\"banner\"]": {
-        "number": 1,
-        "domain": "forexlive.com"
-    },
-    "div[class^=\"sc\"] > [id^=\"InStream\"]:upward(1)": {
-        "number": 1,
-        "domain": "fortune.com"
-    },
-    "div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"] div[id^=\"SimpleInStream\"]:upward(div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"])": {
-        "number": 1,
-        "domain": "fortune.com"
-    },
-    ".addisclaimer": {
-        "number": 1,
-        "domain": "fossmint.com"
-    },
-    ".entry-content > center": {
-        "number": 1,
-        "domain": "fossmint.com"
-    },
-    ".vce-ad-container": {
-        "number": 1,
-        "domain": "fossmint.com"
-    },
-    ".banner": {
-        "number": 1,
-        "domain": "freecodecamp.org"
-    },
-    ".wp-block-template-part [id^=\"adngin\"]:upward(.wp-block-template-part)": {
-        "number": 1,
-        "domain": "geekflare.com"
-    },
-    ".ad-slot-wrapper": {
-        "number": 1,
-        "domain": "gizmodo.com.au"
-    },
-    ".homepage__native-ad": {
-        "number": 1,
-        "domain": "glamour.com"
-    },
-    ".Enhancement": {
-        "number": 1,
-        "domain": "govtech.com"
-    },
-    ".GoogleDfpMobileAd": {
-        "number": 1,
-        "domain": "govtech.com"
-    },
-    "[id^=\"googleAd\"]": {
-        "number": 1,
-        "domain": "govtech.com"
-    },
-    "#primis-container": {
-        "number": 1,
-        "domain": "grunge.com"
-    },
-    ".google-ad-placeholder": {
-        "number": 1,
-        "domain": "grunge.com"
-    },
-    "div[class^=\"at\"][style]": {
-        "number": 1,
-        "domain": "guidingtech.com"
-    },
-    "div[style] > .adsbygoogle:upward(1)": {
-        "number": 1,
-        "domain": "guidingtech.com"
-    },
-    ".info-links-sticky": {
-        "number": 1,
-        "domain": "iflscience.com"
-    },
-    ".sidebar--sticky": {
-        "number": 1,
-        "domain": "iflscience.com"
-    },
-    "header:style(top: 0px !important; position: inherit !important;)": {
-        "number": 1,
-        "domain": "iflscience.com"
-    },
-    ".m1_MobileMPU": {
-        "number": 1,
-        "domain": "insideevs.com"
-    },
-    ".small-info-box-ad": {
-        "number": 1,
-        "domain": "insideevs.com"
-    },
-    "#adhesive_container": {
-        "number": 1,
-        "domain": "interestingengineering.com"
-    },
-    ".adbreak": {
-        "number": 1,
-        "domain": "kslnewsradio.com"
-    },
-    ".three": {
-        "number": 1,
-        "domain": "kslnewsradio.com"
-    },
-    ".amp-wp-content .ezoic-ad:upward(.amp-wp-content)": {
-        "number": 1,
-        "domain": "linuxandubuntu.com"
-    },
-    "#adfreeDivMobile": {
-        "number": 1,
-        "domain": "livemint.com"
-    },
-    "#aniview-ads": {
-        "number": 1,
-        "domain": "livemint.com"
-    },
-    "#subscribeAd": {
-        "number": 1,
-        "domain": "livemint.com"
-    },
-    ".taboolaHeight": {
-        "number": 1,
-        "domain": "livemint.com"
-    },
-    "[class^=\"ad\"][class*=\"Height\"]": {
-        "number": 1,
-        "domain": "livemint.com"
+    ".taboola-container": {
+        "number": 2,
+        "domain": "businessinsider.com,insider.com"
+    },
+    "[data-component-type=\"ad-swapper\"]": {
+        "number": 2,
+        "domain": "businessinsider.com,insider.com"
     },
     "#ad_wrapper": {
         "number": 1,
         "domain": "kdnuggets.com"
     },
-    "#post-header-ad": {
+    "#adfreeDivMobile": {
         "number": 1,
-        "domain": "kdnuggets.com"
+        "domain": "livemint.com"
     },
-    "#Header_1": {
+    "#adhesive_container": {
         "number": 1,
-        "domain": "kstp.com"
+        "domain": "interestingengineering.com"
     },
-    ".ad-on": {
+    "#aniview-ads": {
         "number": 1,
-        "domain": "m.slashdot.org"
+        "domain": "livemint.com"
     },
-    ".google_ad": {
+    "#article-ad": {
         "number": 1,
-        "domain": "m.slashdot.org"
+        "domain": "teslarati.com"
     },
-    ".river_top": {
+    "#article_end_ad_footer": {
         "number": 1,
-        "domain": "m.slashdot.org"
+        "domain": "arstechnica.com"
     },
-    ".ad_text": {
+    "#content-ad": {
         "number": 1,
-        "domain": "m.timesofindia.com"
-    },
-    ".c-sidebar": {
-        "number": 1,
-        "domain": "mangaread.org"
-    },
-    ".widget_text": {
-        "number": 1,
-        "domain": "mangaread.org"
-    },
-    ".mom-ads__inner": {
-        "number": 1,
-        "domain": "manofmany.com"
-    },
-    ".mom-ads__wrapper": {
-        "number": 1,
-        "domain": "manofmany.com"
+        "domain": "chess.com"
     },
     "#demo > div[style]": {
         "number": 1,
         "domain": "meaww.com"
     },
-    "#showReadNext div[style] > span:has-text(ADVERTISEMENT):upward(1)": {
+    "#fixed-ad-container": {
         "number": 1,
-        "domain": "meaww.com"
+        "domain": "petapixel.com"
     },
-    "div[style] > pubguru:upward(1)": {
+    "#gpt-banner_bottom-1": {
         "number": 1,
-        "domain": "meaww.com"
+        "domain": "usatoday.com"
     },
-    "[class*=\"ad-place\"]": {
+    "#header-ads": {
         "number": 1,
-        "domain": "mmm-online.com"
+        "domain": "blogspot.com"
     },
-    ".td-a-rec": {
+    "#Header_1": {
         "number": 1,
-        "domain": "mysmartprice.com"
+        "domain": "kstp.com"
     },
-    ".td-header-sp-recs": {
+    "#imu1forarticles": {
         "number": 1,
-        "domain": "mysmartprice.com"
+        "domain": "crn.com"
     },
-    ".header-banner-ads": {
+    "#LeaderBoardTop": {
         "number": 1,
-        "domain": "neowin.net"
+        "domain": "tuoitre.vn"
     },
-    ".Page-below-content": {
+    "#MOBILE-TOP_ATF": {
         "number": 1,
-        "domain": "newatlas.com"
-    },
-    ".advertorial": {
-        "number": 1,
-        "domain": "nikkei.com"
-    },
-    ".article__bottom-ad-slot": {
-        "number": 1,
-        "domain": "nikkei.com"
-    },
-    ".outbrain": {
-        "number": 1,
-        "domain": "nikkei.com"
+        "domain": "engadget.com"
     },
     "#nbc_bb": {
         "number": 1,
         "domain": "notebookcheck.net"
     },
-    ".single__outbrain": {
+    "#post-header-ad": {
         "number": 1,
-        "domain": "nypost.com"
+        "domain": "kdnuggets.com"
     },
-    ".widget-wrapper .ad:upward(.widget-wrapper)": {
+    "#primis-container": {
         "number": 1,
-        "domain": "nypost.com"
+        "domain": "grunge.com"
     },
-    "[data-hierarchy=\"zone\"] > div > div > div:not([class]) [data-testid=\"StandardAd\"]:upward([data-hierarchy=\"zone\"] > div > div)": {
+    "#related-data-content-wrapper > div > [id^=\"ATF-Center\"]:upward(div)": {
         "number": 1,
-        "domain": "nytimes.com"
+        "domain": "engadget.com"
     },
-    "[id^=\"story-ad-\"][id$=\"-wrapper\"]": {
+    "#showReadNext div[style] > span:has-text(ADVERTISEMENT):upward(1)": {
         "number": 1,
-        "domain": "nytimes.com"
+        "domain": "meaww.com"
     },
-    ".b2p-adv": {
+    "#subscribeAd": {
         "number": 1,
-        "domain": "olympics.com"
+        "domain": "livemint.com"
     },
-    "[class*=\"indexstyles__Ad\"]": {
+    "#topbaddiv": {
         "number": 1,
-        "domain": "olympics.com"
+        "domain": "wordhippo.com"
+    },
+    ".ad--header": {
+        "number": 1,
+        "domain": "birdwatchingdaily.com"
     },
     ".ad-break": {
         "number": 1,
@@ -635,25 +223,301 @@
         "number": 1,
         "domain": "paloaltoonline.com"
     },
-    "#fixed-ad-container": {
+    ".ad-injection": {
         "number": 1,
-        "domain": "petapixel.com"
+        "domain": "pressherald.com"
     },
-    ".instream_ad": {
+    ".ad-no-notice": {
         "number": 1,
-        "domain": "petapixel.com"
+        "domain": "7news.com.au"
     },
-    ".vc_column-inner script:upward(.vc_column-inner)": {
+    ".ad-on": {
         "number": 1,
-        "domain": "photoreview.com.au"
+        "domain": "m.slashdot.org"
+    },
+    ".ad-panel": {
+        "number": 1,
+        "domain": "urbandictionary.com"
+    },
+    ".ad-placement:not(.adsbox):not(.afs_ads):not(#ablockercheck)": {
+        "number": 1,
+        "domain": "computerworld.com"
+    },
+    ".ad-right": {
+        "number": 1,
+        "domain": "standard.co.uk"
+    },
+    ".ad-slot-wrapper": {
+        "number": 1,
+        "domain": "gizmodo.com.au"
+    },
+    ".ad-tag": {
+        "number": 1,
+        "domain": "ehn.org"
+    },
+    ".ad-wrapper--ad-unit-wrap": {
+        "number": 1,
+        "domain": "fastcompany.com"
+    },
+    ".ad_text": {
+        "number": 1,
+        "domain": "m.timesofindia.com"
+    },
+    ".adbreak": {
+        "number": 1,
+        "domain": "kslnewsradio.com"
+    },
+    ".addisclaimer": {
+        "number": 1,
+        "domain": "fossmint.com"
+    },
+    ".adhesiveAdWrapper": {
+        "number": 1,
+        "domain": "dexerto.com"
+    },
+    ".adl-ad-container": {
+        "number": 1,
+        "domain": "aafp.org"
+    },
+    ".admob": {
+        "number": 1,
+        "domain": "bongdaplus.vn"
     },
     ".ads-container": {
         "number": 1,
         "domain": "phys.org"
     },
-    ".ad-injection": {
+    ".adsbygoogle": {
         "number": 1,
-        "domain": "pressherald.com"
+        "domain": "bleepingcomputer.com"
+    },
+    ".AdSense": {
+        "number": 1,
+        "domain": "blogspot.com"
+    },
+    ".adthrive": {
+        "number": 1,
+        "domain": "askpython.com"
+    },
+    ".adthrive-ad": {
+        "number": 1,
+        "domain": "askpython.com"
+    },
+    ".adun": {
+        "number": 1,
+        "domain": "theregister.com"
+    },
+    ".advert-wrapper": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    ".advertorial": {
+        "number": 1,
+        "domain": "nikkei.com"
+    },
+    ".adverts": {
+        "number": 1,
+        "domain": "the-scientist.com"
+    },
+    ".adWrapper": {
+        "number": 1,
+        "domain": "smh.com.au"
+    },
+    ".alm-advert": {
+        "number": 1,
+        "domain": "clashmusic.com"
+    },
+    ".amp-wp-content .ezoic-ad:upward(.amp-wp-content)": {
+        "number": 1,
+        "domain": "linuxandubuntu.com"
+    },
+    ".arc-ad": {
+        "number": 1,
+        "domain": "wbay.com"
+    },
+    ".archive-list-insteam": {
+        "number": 1,
+        "domain": "arstechnica.com"
+    },
+    ".article-promo-bottom": {
+        "number": 1,
+        "domain": "skyheadlines.com"
+    },
+    ".article-promo-top": {
+        "number": 1,
+        "domain": "skyheadlines.com"
+    },
+    ".article__bottom-ad-slot": {
+        "number": 1,
+        "domain": "nikkei.com"
+    },
+    ".b-mem-post--ads": {
+        "number": 1,
+        "domain": "digitaltrends.com"
+    },
+    ".b2p-adv": {
+        "number": 1,
+        "domain": "olympics.com"
+    },
+    ".banner": {
+        "number": 1,
+        "domain": "freecodecamp.org"
+    },
+    ".belowMastheadWrapper": {
+        "number": 1,
+        "domain": "sfchronicle.com"
+    },
+    ".block-ad-entity": {
+        "number": 1,
+        "domain": "channelnewsasia.com"
+    },
+    ".block-inline-blockwidget-block": {
+        "number": 1,
+        "domain": "straitstimes.com"
+    },
+    ".block-wrapper .ad-holder:upward(.block-wrapper)": {
+        "number": 1,
+        "domain": "arabnews.com"
+    },
+    ".c-sidebar": {
+        "number": 1,
+        "domain": "mangaread.org"
+    },
+    ".card ins:upward(.card)": {
+        "number": 1,
+        "domain": "webbrowsertools.com"
+    },
+    ".cf[class^=\"google-\"]": {
+        "number": 1,
+        "domain": "thehackernews.com"
+    },
+    ".code-block": {
+        "number": 1,
+        "domain": "viralonce.xyz"
+    },
+    ".content-ad": {
+        "number": 1,
+        "domain": "amateurphotographer.com"
+    },
+    ".crawl-promo-1": {
+        "number": 1,
+        "domain": "computerworld.com"
+    },
+    ".customiser-v2-layout-1-billboard-container": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    ".customiser-v2-layout-three-native-ad-container": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    ".dfp-ad": {
+        "number": 1,
+        "domain": "c4isrnet.com"
+    },
+    ".dfp-ads": {
+        "number": 1,
+        "domain": "straitstimes.com"
+    },
+    ".dfp-tag-wrapper": {
+        "number": 1,
+        "domain": "straitstimes.com"
+    },
+    ".dt-primis": {
+        "number": 1,
+        "domain": "digitaltrends.com"
+    },
+    ".ECnoprint > div ins:upward(.ECnoprint > div)": {
+        "number": 1,
+        "domain": "englishclub.com"
+    },
+    ".empire-unit-prefill-container": {
+        "number": 1,
+        "domain": "popsci.com"
+    },
+    ".Enhancement": {
+        "number": 1,
+        "domain": "govtech.com"
+    },
+    ".entry-content > center": {
+        "number": 1,
+        "domain": "fossmint.com"
+    },
+    ".gnt_flp": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    ".gnt_xmst": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    ".google-ad-placeholder": {
+        "number": 1,
+        "domain": "grunge.com"
+    },
+    ".google-ad:not(.testAd)": {
+        "number": 1,
+        "domain": "clashmusic.com"
+    },
+    ".google_ad": {
+        "number": 1,
+        "domain": "m.slashdot.org"
+    },
+    ".GoogleDfpMobileAd": {
+        "number": 1,
+        "domain": "govtech.com"
+    },
+    ".header-ad": {
+        "number": 1,
+        "domain": "amateurphotographer.com"
+    },
+    ".header-ad-row": {
+        "number": 1,
+        "domain": "silverliningsinfo.com"
+    },
+    ".header-banner-ads": {
+        "number": 1,
+        "domain": "neowin.net"
+    },
+    ".header-lemur": {
+        "number": 1,
+        "domain": "sdxcentral.com"
+    },
+    ".homepage__native-ad": {
+        "number": 1,
+        "domain": "glamour.com"
+    },
+    ".in-article-ad": {
+        "number": 1,
+        "domain": "teslarati.com"
+    },
+    ".index-content-ad-wrapper": {
+        "number": 1,
+        "domain": "chess.com"
+    },
+    ".info-links-sticky": {
+        "number": 1,
+        "domain": "iflscience.com"
+    },
+    ".inline-promos-skeleton": {
+        "number": 1,
+        "domain": "theconversation.com"
+    },
+    ".instream-wrap": {
+        "number": 1,
+        "domain": "arstechnica.com"
+    },
+    ".instream_ad": {
+        "number": 1,
+        "domain": "petapixel.com"
+    },
+    ".is-ad-article": {
+        "number": 1,
+        "domain": "tedium.co"
+    },
+    ".is-below-header-ad.m-balloon-header": {
+        "number": 1,
+        "domain": "si.com"
     },
     ".js_movable_ad_slot": {
         "number": 1,
@@ -663,57 +527,13 @@
         "number": 1,
         "domain": "qz.com"
     },
-    "div > .js_commerce-inset-permalink:upward(1)": {
-        "number": 1,
-        "domain": "qz.com"
-    },
-    "main div > .ad-container:upward(1)": {
-        "number": 1,
-        "domain": "qz.com"
-    },
-    ".empire-unit-prefill-container": {
-        "number": 1,
-        "domain": "popsci.com"
-    },
-    ".td-a-ad": {
-        "number": 1,
-        "domain": "schengenvisainfo.com"
-    },
-    ".td-block > .td-adspot-title:upward(1)": {
-        "number": 1,
-        "domain": "schengenvisainfo.com"
-    },
-    ".pb-ad": {
-        "number": 1,
-        "domain": "science.org"
-    },
-    "main > section .no-border-ads:upward(main > section)": {
-        "number": 1,
-        "domain": "science.org"
-    },
-    ".header-lemur": {
-        "number": 1,
-        "domain": "sdxcentral.com"
-    },
-    ".sponsored": {
-        "number": 1,
-        "domain": "sdxcentral.com"
-    },
-    ".rst_bsac": {
-        "number": 1,
-        "domain": "sensereceptornews.com"
-    },
-    ".belowMastheadWrapper": {
-        "number": 1,
-        "domain": "sfchronicle.com"
-    },
-    ".is-below-header-ad.m-balloon-header": {
-        "number": 1,
-        "domain": "si.com"
-    },
     ".l-grid--ad-card": {
         "number": 1,
         "domain": "si.com"
+    },
+    ".leaderboard-ad-component": {
+        "number": 1,
+        "domain": "thestar.com"
     },
     ".m-detail--feature-spacer": {
         "number": 1,
@@ -727,184 +547,364 @@
         "number": 1,
         "domain": "si.com"
     },
-    ".header-ad-row": {
+    ".m1_MobileMPU": {
         "number": 1,
-        "domain": "silverliningsinfo.com"
+        "domain": "insideevs.com"
+    },
+    ".masthead-container": {
+        "number": 1,
+        "domain": "ephotozine.com"
+    },
+    ".module > .admz:upward(1)": {
+        "number": 1,
+        "domain": "robbreport.com"
+    },
+    ".mom-ads__inner": {
+        "number": 1,
+        "domain": "manofmany.com"
+    },
+    ".mom-ads__wrapper": {
+        "number": 1,
+        "domain": "manofmany.com"
+    },
+    ".mrf-adv__wrapper": {
+        "number": 1,
+        "domain": "cleantechnica.com"
+    },
+    ".node__content > .layout.strong": {
+        "number": 1,
+        "domain": "fiercepharma.com"
+    },
+    ".outbrain": {
+        "number": 1,
+        "domain": "nikkei.com"
+    },
+    ".page-ad": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    ".Page-below-content": {
+        "number": 1,
+        "domain": "newatlas.com"
+    },
+    ".pb-ad": {
+        "number": 1,
+        "domain": "science.org"
+    },
+    ".post__article-top-ad-wrapper": {
+        "number": 1,
+        "domain": "fastcompany.com"
     },
     ".prosumer-wrapper > div .ad-container:upward(div)": {
         "number": 1,
         "domain": "silverliningsinfo.com"
     },
+    ".prosumer-wrapper > div > .ad-container:upward(1)": {
+        "number": 1,
+        "domain": "fiercebiotech.com"
+    },
+    ".ribbon": {
+        "number": 1,
+        "domain": "crn.com"
+    },
+    ".river_top": {
+        "number": 1,
+        "domain": "m.slashdot.org"
+    },
+    ".row > div > .ad-wrapper:upward(.row)": {
+        "number": 1,
+        "domain": "androidheadlines.com"
+    },
+    ".row > div > .primis-ad-wrap:upward(div)": {
+        "number": 1,
+        "domain": "appleinsider.com"
+    },
+    ".rst_bsac": {
+        "number": 1,
+        "domain": "sensereceptornews.com"
+    },
+    ".short-sidebar-ad-component": {
+        "number": 1,
+        "domain": "chess.com"
+    },
+    ".sidebar .widget ins:upward(.widget)": {
+        "number": 1,
+        "domain": "blogspot.com"
+    },
+    ".sidebar--sticky": {
+        "number": 1,
+        "domain": "iflscience.com"
+    },
+    ".single__outbrain": {
+        "number": 1,
+        "domain": "nypost.com"
+    },
     ".site-component-vertical-margin-l": {
         "number": 1,
         "domain": "skysports.com"
     },
-    ".article-promo-bottom": {
+    ".small-info-box-ad": {
         "number": 1,
-        "domain": "skyheadlines.com"
+        "domain": "insideevs.com"
     },
-    ".article-promo-top": {
+    ".sponsored": {
         "number": 1,
-        "domain": "skyheadlines.com"
+        "domain": "sdxcentral.com"
     },
-    ".widget_tt_ads_widget": {
+    ".sponsored-content-section": {
         "number": 1,
-        "domain": "skyheadlines.com"
+        "domain": "allthatsinteresting.com"
     },
-    ".adWrapper": {
+    ".sponsors": {
         "number": 1,
-        "domain": "smh.com.au"
-    },
-    "[data-testid=\"sponsored-story-tile\"]": {
-        "number": 1,
-        "domain": "smh.com.au"
-    },
-    ".ad-right": {
-        "number": 1,
-        "domain": "standard.co.uk"
-    },
-    ".viafoura": {
-        "number": 1,
-        "domain": "standard.co.uk"
-    },
-    "[id^=\"mpu\"]": {
-        "number": 1,
-        "domain": "standard.co.uk"
-    },
-    ".block-inline-blockwidget-block": {
-        "number": 1,
-        "domain": "straitstimes.com"
-    },
-    ".dfp-ads": {
-        "number": 1,
-        "domain": "straitstimes.com"
-    },
-    ".dfp-tag-wrapper": {
-        "number": 1,
-        "domain": "straitstimes.com"
-    },
-    ".is-ad-article": {
-        "number": 1,
-        "domain": "tedium.co"
-    },
-    ".in-article-ad": {
-        "number": 1,
-        "domain": "teslarati.com"
-    },
-    "#article-ad": {
-        "number": 1,
-        "domain": "teslarati.com"
-    },
-    ".adverts": {
-        "number": 1,
-        "domain": "the-scientist.com"
-    },
-    ".inline-promos-skeleton": {
-        "number": 1,
-        "domain": "theconversation.com"
-    },
-    ".cf[class^=\"google-\"]": {
-        "number": 1,
-        "domain": "thehackernews.com"
-    },
-    "[class^=\"ad_\"]": {
-        "number": 1,
-        "domain": "thehackernews.com"
-    },
-    ".tnw-ad": {
-        "number": 1,
-        "domain": "thenextweb.com"
-    },
-    ".adun": {
-        "number": 1,
-        "domain": "theregister.com"
-    },
-    ".leaderboard-ad-component": {
-        "number": 1,
-        "domain": "thestar.com"
-    },
-    "[data-ad-group]": {
-        "number": 1,
-        "domain": "thestreet.com"
-    },
-    ".advert-wrapper": {
-        "number": 1,
-        "domain": "thesun.co.uk"
-    },
-    ".customiser-v2-layout-1-billboard-container": {
-        "number": 1,
-        "domain": "thesun.co.uk"
-    },
-    ".customiser-v2-layout-three-native-ad-container": {
-        "number": 1,
-        "domain": "thesun.co.uk"
-    },
-    ".widget_thesun_dfp_ad_widget": {
-        "number": 1,
-        "domain": "thesun.co.uk"
-    },
-    "#LeaderBoardTop": {
-        "number": 1,
-        "domain": "tuoitre.vn"
-    },
-    ".ad-panel": {
-        "number": 1,
-        "domain": "urbandictionary.com"
-    },
-    "[data-x-bind=\"merchAd\"]": {
-        "number": 1,
-        "domain": "urbandictionary.com"
-    },
-    "#gpt-banner_bottom-1": {
-        "number": 1,
-        "domain": "usatoday.com"
-    },
-    ".gnt_flp": {
-        "number": 1,
-        "domain": "usatoday.com"
-    },
-    ".gnt_xmst": {
-        "number": 1,
-        "domain": "usatoday.com"
-    },
-    "[data-indepth-ad]": {
-        "number": 1,
-        "domain": "usatoday.com"
-    },
-    "[id^=\"gpt-banner\"]": {
-        "number": 1,
-        "domain": "usatoday.com"
-    },
-    "a[rel=\"sponsored\"]": {
-        "number": 1,
-        "domain": "usatoday.com"
-    },
-    ".code-block": {
-        "number": 1,
-        "domain": "viralonce.xyz"
-    },
-    ".van_taboola": {
-        "number": 1,
-        "domain": "wallpaper.com"
-    },
-    ".arc-ad": {
-        "number": 1,
-        "domain": "wbay.com"
+        "domain": "channelnewsasia.com"
     },
     ".taboola-feature": {
         "number": 1,
         "domain": "wbay.com"
     },
-    ".card ins:upward(.card)": {
+    ".taboolaHeight": {
         "number": 1,
-        "domain": "webbrowsertools.com"
+        "domain": "livemint.com"
     },
-    "#topbaddiv": {
+    ".td-a-ad": {
         "number": 1,
-        "domain": "wordhippo.com"
+        "domain": "schengenvisainfo.com"
+    },
+    ".td-a-rec": {
+        "number": 1,
+        "domain": "mysmartprice.com"
+    },
+    ".td-block > .td-adspot-title:upward(1)": {
+        "number": 1,
+        "domain": "schengenvisainfo.com"
+    },
+    ".td-header-sp-recs": {
+        "number": 1,
+        "domain": "mysmartprice.com"
+    },
+    ".three": {
+        "number": 1,
+        "domain": "kslnewsradio.com"
+    },
+    ".tnw-ad": {
+        "number": 1,
+        "domain": "thenextweb.com"
+    },
+    ".van_taboola": {
+        "number": 1,
+        "domain": "wallpaper.com"
+    },
+    ".vc_column-inner script:upward(.vc_column-inner)": {
+        "number": 1,
+        "domain": "photoreview.com.au"
+    },
+    ".vce-ad-container": {
+        "number": 1,
+        "domain": "fossmint.com"
+    },
+    ".viafoura": {
+        "number": 1,
+        "domain": "standard.co.uk"
+    },
+    ".widget-wrapper .ad:upward(.widget-wrapper)": {
+        "number": 1,
+        "domain": "nypost.com"
+    },
+    ".widget_text": {
+        "number": 1,
+        "domain": "mangaread.org"
+    },
+    ".widget_thesun_dfp_ad_widget": {
+        "number": 1,
+        "domain": "thesun.co.uk"
+    },
+    ".widget_tt_ads_widget": {
+        "number": 1,
+        "domain": "skyheadlines.com"
+    },
+    ".wp-block-template-part [id^=\"adngin\"]:upward(.wp-block-template-part)": {
+        "number": 1,
+        "domain": "geekflare.com"
+    },
+    ".wpcnt": {
+        "number": 1,
+        "domain": "avecfacts.com"
+    },
+    "[class$=\"-ad-container\"]": {
+        "number": 1,
+        "domain": "fastcompany.com"
+    },
+    "[class*=\"ad-place\"]": {
+        "number": 1,
+        "domain": "mmm-online.com"
+    },
+    "[class*=\"indexstyles__Ad\"]": {
+        "number": 1,
+        "domain": "olympics.com"
+    },
+    "[class*=\"layout__ad-bg\"]": {
+        "number": 1,
+        "domain": "drive.com.au"
+    },
+    "[class*=\"StyledInlineTaboola\"]": {
+        "number": 1,
+        "domain": "7news.com.au"
+    },
+    "[class^=\"ad\"][class*=\"Height\"]": {
+        "number": 1,
+        "domain": "livemint.com"
+    },
+    "[class^=\"ad_\"]": {
+        "number": 1,
+        "domain": "thehackernews.com"
+    },
+    "[class^=\"mdbl_\"]": {
+        "number": 1,
+        "domain": "dantri.com.vn"
+    },
+    "[class^=\"u-padding\"]": {
+        "number": 1,
+        "domain": "hollywoodreporter.com"
+    },
+    "[data-ad-group]": {
+        "number": 1,
+        "domain": "thestreet.com"
+    },
+    "[data-component=\"JacAd\"]": {
+        "number": 1,
+        "domain": "engadget.com"
+    },
+    "[data-cy=\"HomepageAdWrapper\"]": {
+        "number": 1,
+        "domain": "dexerto.com"
+    },
+    "[data-hierarchy=\"zone\"] > div > div > div:not([class]) [data-testid=\"StandardAd\"]:upward([data-hierarchy=\"zone\"] > div > div)": {
+        "number": 1,
+        "domain": "nytimes.com"
+    },
+    "[data-indepth-ad]": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    "[data-ref=\"banner\"]": {
+        "number": 1,
+        "domain": "forexlive.com"
+    },
+    "[data-testid=\"prism-sticky-ad\"]": {
+        "number": 1,
+        "domain": "abcnews.go.com"
+    },
+    "[data-testid=\"prism-taboola\"]": {
+        "number": 1,
+        "domain": "abcnews.go.com"
+    },
+    "[data-testid=\"sponsored-story-tile\"]": {
+        "number": 1,
+        "domain": "smh.com.au"
+    },
+    "[data-x-bind=\"merchAd\"]": {
+        "number": 1,
+        "domain": "urbandictionary.com"
+    },
+    "[id^=\"article\"] > div [data-ad-unit-id]:upward([id^=\"article\"] > div)": {
+        "number": 1,
+        "domain": "dexerto.com"
+    },
+    "[id^=\"googleAd\"]": {
+        "number": 1,
+        "domain": "govtech.com"
+    },
+    "[id^=\"gpt-banner\"]": {
+        "number": 1,
+        "domain": "usatoday.com"
     },
     "[id^=\"mobilead\"]": {
         "number": 1,
         "domain": "wordhippo.com"
+    },
+    "[id^=\"mpu\"]": {
+        "number": 1,
+        "domain": "standard.co.uk"
+    },
+    "[id^=\"story-ad-\"][id$=\"-wrapper\"]": {
+        "number": 1,
+        "domain": "nytimes.com"
+    },
+    "a[rel=\"sponsored\"]": {
+        "number": 1,
+        "domain": "usatoday.com"
+    },
+    "div > .js_commerce-inset-permalink:upward(1)": {
+        "number": 1,
+        "domain": "qz.com"
+    },
+    "div[class*=\"-ad-top\"]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    "div[class^=\"at\"][style]": {
+        "number": 1,
+        "domain": "guidingtech.com"
+    },
+    "div[class^=\"sc\"] > [id^=\"InStream\"]:upward(1)": {
+        "number": 1,
+        "domain": "fortune.com"
+    },
+    "div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"] div[id^=\"SimpleInStream\"]:upward(div[class^=\"sc\"] > div:not([class]) > div[class^=\"sc\"])": {
+        "number": 1,
+        "domain": "fortune.com"
+    },
+    "div[data-ad-placeholder]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    "div[id^=\"brows\"] > .ezoic-ad:upward(1)": {
+        "number": 1,
+        "domain": "browsertouse.com"
+    },
+    "div[id^=\"fortress-\"]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
+    "div[style] > .adsbygoogle:upward(1)": {
+        "number": 1,
+        "domain": "guidingtech.com"
+    },
+    "div[style] > .mobile-incontent-ad-label:upward(1)": {
+        "number": 1,
+        "domain": "birdwatchingdaily.com"
+    },
+    "div[style] > [class^=\"AdsenseAd_putFood\"]:upward(1)": {
+        "number": 1,
+        "domain": "alternativeto.net"
+    },
+    "div[style] > pubguru:upward(1)": {
+        "number": 1,
+        "domain": "meaww.com"
+    },
+    "div[style] > template:upward(1)": {
+        "number": 1,
+        "domain": "alternativeto.net"
+    },
+    "header:style(top: 0px !important; position: inherit !important;)": {
+        "number": 1,
+        "domain": "iflscience.com"
+    },
+    "li > .google-ad:upward(1)": {
+        "number": 1,
+        "domain": "clashmusic.com"
+    },
+    "main > section .no-border-ads:upward(main > section)": {
+        "number": 1,
+        "domain": "science.org"
+    },
+    "main div > .ad-container:upward(1)": {
+        "number": 1,
+        "domain": "qz.com"
+    },
+    "p script:upward(p)": {
+        "number": 1,
+        "domain": "blogspot.com"
     }
 }

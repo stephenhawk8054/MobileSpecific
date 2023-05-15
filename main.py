@@ -2,7 +2,7 @@ from utils import load_text, write_json
 
 
 def main():
-    stats = dict()
+    stats: dict[str, dict[str, int|str]] = dict()
     for line in load_text('mobile_specific.txt', is_list=True):
         if line.startswith('!'):
             continue
@@ -18,7 +18,7 @@ def main():
                 'domain': ','.join(sorted(domains))
             }
 
-    stats = dict(sorted(stats.items(), key=lambda item: item[1]['number'], reverse=True))
+    stats = dict(sorted(stats.items(), key=lambda item: (-item[1]['number'], item[0].lower())))
     write_json(stats, 'stats.json')
 
 
