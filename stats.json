@@ -823,6 +823,10 @@
         "number": 1,
         "domain": "thestar.com"
     },
+    "[data-ad-group]": {
+        "number": 1,
+        "domain": "thestreet.com"
+    },
     ".advert-wrapper": {
         "number": 1,
         "domain": "thesun.co.uk"
