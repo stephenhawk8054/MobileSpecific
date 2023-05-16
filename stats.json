@@ -395,6 +395,10 @@
         "number": 1,
         "domain": "viralonce.xyz"
     },
+    ".connatix-main-container": {
+        "number": 1,
+        "domain": "gizmodo.com"
+    },
     ".content-ad": {
         "number": 1,
         "domain": "amateurphotographer.com"
@@ -519,6 +523,14 @@
         "number": 1,
         "domain": "si.com"
     },
+    ".js_ad-dynamic": {
+        "number": 1,
+        "domain": "gizmodo.com"
+    },
+    ".js_midbanner_ad_slot": {
+        "number": 1,
+        "domain": "gizmodo.com"
+    },
     ".js_movable_ad_slot": {
         "number": 1,
         "domain": "qz.com"
@@ -526,6 +538,10 @@
     ".js_sticky-footer": {
         "number": 1,
         "domain": "qz.com"
+    },
+    ".js_ymal-below-post": {
+        "number": 1,
+        "domain": "gizmodo.com"
     },
     ".l-grid--ad-card": {
         "number": 1,
