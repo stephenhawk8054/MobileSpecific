@@ -587,6 +587,10 @@
         "number": 1,
         "domain": "cleantechnica.com"
     },
+    ".NA_ad": {
+        "number": 1,
+        "domain": "natalie.mu"
+    },
     ".node__content > .layout.strong": {
         "number": 1,
         "domain": "fiercepharma.com"
