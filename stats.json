@@ -307,6 +307,10 @@
         "number": 1,
         "domain": "theregister.com"
     },
+    ".AdUnit": {
+        "number": 1,
+        "domain": "medscape.com"
+    },
     ".advert-wrapper": {
         "number": 1,
         "domain": "thesun.co.uk"
