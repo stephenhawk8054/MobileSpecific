@@ -919,6 +919,10 @@
         "number": 1,
         "domain": "clashmusic.com"
     },
+    "main > div > div > .ad-banner:upward(1)": {
+        "number": 1,
+        "domain": "androidauthority.com"
+    },
     "main > section .no-border-ads:upward(main > section)": {
         "number": 1,
         "domain": "science.org"
