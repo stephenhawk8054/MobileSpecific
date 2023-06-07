@@ -47,9 +47,13 @@
         "number": 12,
         "domain": "birdwatchingdaily.com,crn.com,defensescoop.com,elpais.com,exceljet.net,glamour.com,gq.*,mangaread.org,newyorker.com,nypost.com,saytruyenvip.com,wired.*"
     },
-    ".ad-unit.ad-unit": {
-        "number": 9,
-        "domain": "gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com"
+    ".van_vid_carousel": {
+        "number": 11,
+        "domain": "androidcentral.com,gamesradar.com,laptopmag.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com"
+    },
+    ".widget-ads": {
+        "number": 11,
+        "domain": "androidcentral.com,gamesradar.com,laptopmag.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com"
     },
     "#splashy-ad-container-top": {
         "number": 4,

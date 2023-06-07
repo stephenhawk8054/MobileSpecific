@@ -1,7 +1,7 @@
 ! Title: Mobile Specific
 ! Description: Specific cosmetic filters for uBlock Origin on mobile with "Ignore generic cosmetic filters" enabled
 ! Expires: 12 hours
-! Last modified: 2023.06.06.1
+! Last modified: 2023.06.07.1
 ! Homepage: https://github.com/stephenhawk8054/MobileSpecific
 ! License: https://github.com/stephenhawk8054/MobileSpecific/blob/main/LICENSE
 !
@@ -35,6 +35,10 @@ androidheadlines.com##.row > div > .ad-wrapper:upward(.row)
 
 ! https://www.androidauthority.com
 androidauthority.com##main > div > div > .ad-banner:upward(1)
+
+! techradar-sites
+androidcentral.com,gamesradar.com,laptopmag.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com##.van_vid_carousel
+androidcentral.com,gamesradar.com,laptopmag.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com##.widget-ads
 
 ! https://appleinsider.com
 appleinsider.com##.row > div > .primis-ad-wrap:upward(div)
@@ -205,10 +209,6 @@ fossmint.com##.vce-ad-container
 ! https://www.freecodecamp.org
 freecodecamp.org##.banner
 
-! techradar-sites
-gamesradar.com,livescience.com,pcgamer.com,space.com,techradar.com,tomsguide.com,tomshardware.com,whathifi.com,windowscentral.com##.ad-unit.ad-unit
-lifehacker.com,kotaku.com###splashy-ad-container-top
-
 ! https://geekflare.com
 geekflare.com##.wp-block-template-part [id^="adngin"]:upward(.wp-block-template-part)
 
@@ -265,6 +265,9 @@ kslnewsradio.com##.three
 
 ! https://www.linuxandubuntu.com
 linuxandubuntu.com##.amp-wp-content .ezoic-ad:upward(.amp-wp-content)
+
+! livehacker-sites
+lifehacker.com,kotaku.com###splashy-ad-container-top
 
 ! https://www.livemint.com
 livemint.com###adfreeDivMobile
