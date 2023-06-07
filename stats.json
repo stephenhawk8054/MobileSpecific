@@ -767,6 +767,10 @@
         "number": 1,
         "domain": "mmm-online.com"
     },
+    "[class*=\"adWrapper\"]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
     "[class*=\"indexstyles__Ad\"]": {
         "number": 1,
         "domain": "olympics.com"
@@ -795,6 +799,10 @@
         "number": 1,
         "domain": "hollywoodreporter.com"
     },
+    "[class^=\"zone_borderless\"]": {
+        "number": 1,
+        "domain": "bloomberg.com"
+    },
     "[data-ad-group]": {
         "number": 1,
         "domain": "thestreet.com"
@@ -802,6 +810,10 @@
     "[data-component=\"JacAd\"]": {
         "number": 1,
         "domain": "engadget.com"
+    },
+    "[data-component=\"sponsored-custom-box-ad\"]": {
+        "number": 1,
+        "domain": "bloomberg.com"
     },
     "[data-cy=\"HomepageAdWrapper\"]": {
         "number": 1,
