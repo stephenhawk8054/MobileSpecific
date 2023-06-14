@@ -855,6 +855,10 @@
         "number": 1,
         "domain": "dexerto.com"
     },
+    "[id^=\"cyber-\"]": {
+        "number": 1,
+        "domain": "cyberithub.com"
+    },
     "[id^=\"googleAd\"]": {
         "number": 1,
         "domain": "govtech.com"
