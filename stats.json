@@ -615,6 +615,10 @@
         "number": 1,
         "domain": "nikkei.com"
     },
+    ".outbrainad": {
+        "number": 1,
+        "domain": "tweaktown.com"
+    },
     ".page-ad": {
         "number": 1,
         "domain": "bloomberg.com"
