@@ -423,6 +423,10 @@
         "number": 1,
         "domain": "thesun.co.uk"
     },
+    ".cxense": {
+        "number": 1,
+        "domain": "marketwatch.com"
+    },
     ".dfp-ad": {
         "number": 1,
         "domain": "c4isrnet.com"
@@ -442,6 +446,10 @@
     ".ECnoprint > div ins:upward(.ECnoprint > div)": {
         "number": 1,
         "domain": "englishclub.com"
+    },
+    ".element--ad": {
+        "number": 1,
+        "domain": "marketwatch.com"
     },
     ".empire-unit-prefill-container": {
         "number": 1,
@@ -630,6 +638,10 @@
     ".prosumer-wrapper > div > .ad-container:upward(1)": {
         "number": 1,
         "domain": "fiercebiotech.com"
+    },
+    ".region--sponsored": {
+        "number": 1,
+        "domain": "marketwatch.com"
     },
     ".ribbon": {
         "number": 1,
