@@ -1,7 +1,7 @@
 ! Title: Mobile Specific
 ! Description: Specific cosmetic filters for uBlock Origin on mobile with "Ignore generic cosmetic filters" enabled
 ! Expires: 12 hours
-! Last modified: 2023.06.18.2
+! Last modified: 2023.06.18.3
 ! Homepage: https://github.com/stephenhawk8054/MobileSpecific
 ! License: https://github.com/stephenhawk8054/MobileSpecific/blob/main/LICENSE
 !
@@ -321,6 +321,11 @@ meaww.com##div[style] > pubguru:upward(1)
 
 ! medscape.com
 medscape.com##.AdUnit
+
+! https://www.mirror.co.uk
+mirror.co.uk##.ad-placeholder:not(#filter_ads_by_classname):not(#detect_ad_empire):not(#detect):not(.adsbox)
+mirror.co.uk##.related-column
+mirror.co.uk##[data-link-partner="AdServed"]
 
 ! https://www.mmm-online.com
 mmm-online.com##[class*="ad-place"]

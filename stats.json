@@ -243,6 +243,10 @@
         "number": 1,
         "domain": "urbandictionary.com"
     },
+    ".ad-placeholder:not(#filter_ads_by_classname):not(#detect_ad_empire):not(#detect):not(.adsbox)": {
+        "number": 1,
+        "domain": "mirror.co.uk"
+    },
     ".ad-placement:not(.adsbox):not(.afs_ads):not(#ablockercheck)": {
         "number": 1,
         "domain": "computerworld.com"
@@ -647,6 +651,10 @@
         "number": 1,
         "domain": "marketwatch.com"
     },
+    ".related-column": {
+        "number": 1,
+        "domain": "mirror.co.uk"
+    },
     ".ribbon": {
         "number": 1,
         "domain": "crn.com"
@@ -846,6 +854,10 @@
     "[data-indepth-ad]": {
         "number": 1,
         "domain": "usatoday.com"
+    },
+    "[data-link-partner=\"AdServed\"]": {
+        "number": 1,
+        "domain": "mirror.co.uk"
     },
     "[data-ref=\"banner\"]": {
         "number": 1,
